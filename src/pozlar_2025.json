@@ -1,0 +1,802 @@
+[
+  {
+    "pozNo": "10.130.2502",
+    "tanim": "7,5 cm kalınlıkta techizatsız gazbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 133.4,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2503",
+    "tanim": "8,5 cm kalınlıkta techizatsız gazbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 151.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2504",
+    "tanim": "9 cm kalınlıkta techizatsız gazbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 160.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2505",
+    "tanim": "10 cm kalınlıkta techizatsız gazbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 177.9,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2506",
+    "tanim": "12,5 cm kalınlıkta techizatsız gazbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 222.3,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2507",
+    "tanim": "13,5cm kalınlıkta techizatsız gazbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 240.15,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2508",
+    "tanim": "15 cm kalınlıkta techizatsız gazbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 266.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2509",
+    "tanim": "17,5 cm kalınlıkta techizatsız gazbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 311.3,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2510",
+    "tanim": "19 cm kalınlıkta techizatsız gazbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 337.95,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2511",
+    "tanim": "20 cm kalınlıkta techizatsız gazbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 355.75,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2512",
+    "tanim": "22,5 cm kalınlıkta techizatsız gazbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 400.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2513",
+    "tanim": "25 cm kalınlıkta techizatsız gazbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 444.7,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2514",
+    "tanim": "27,5 cm kalınlıkta techizatsız gazbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 489.15,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2515",
+    "tanim": "30 cm kalınlıkta techizatsız gazbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 533.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2516",
+    "tanim": "32,5 cm kalınlıkta techizatsız gazbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 578.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2517",
+    "tanim": "35 cm kalınlıkta techizatsız gazbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 622.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2531",
+    "tanim": "Techizatsız gazbeton duvar blokları (3,50 N/mm² ve 500 kg/m³)",
+    "birim": "m³",
+    "birimFiyat": 1998.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2532",
+    "tanim": "7,5 cm kalınlıkta techizatsız gazbeton duvar bloğu (500 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 149.86,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2533",
+    "tanim": "8,5 cm kalınlıkta techizatsız gazbeton duvar bloğu (500 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 169.85,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2534",
+    "tanim": "9 cm kalınlıkta techizatsız gazbeton duvar bloğu (500 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 179.83,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2535",
+    "tanim": "10 cm kalınlıkta techizatsız gazbeton duvar bloğu (500 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 199.81,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2536",
+    "tanim": "12,5 cm kalınlıkta techizatsız gazbeton duvar bloğu (500 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 249.77,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2537",
+    "tanim": "13,5cm kalınlıkta techizatsız gazbeton duvar bloğu (500 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 269.75,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2538",
+    "tanim": "15 cm kalınlıkta techizatsız gazbeton duvar bloğu (500 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 299.71,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2539",
+    "tanim": "17,5 cm kalınlıkta techizatsız gazbeton duvar bloğu (500 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 349.67,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2540",
+    "tanim": "19 cm kalınlıkta techizatsız gazbeton duvar bloğu (500 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 379.64,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2541",
+    "tanim": "20 cm kalınlıkta techizatsız gazbeton duvar bloğu (500 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 399.62,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2542",
+    "tanim": "22,5 cm kalınlıkta techizatsız gazbeton duvar bloğu (500 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 449.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2543",
+    "tanim": "25 cm kalınlıkta techizatsız gazbeton duvar bloğu (500 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 499.52,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2544",
+    "tanim": "27,5 cm kalınlıkta techizatsız gazbeton duvar bloğu (500 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 549.48,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2545",
+    "tanim": "30 cm kalınlıkta techizatsız gazbeton duvar bloğu (500 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 599.42,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2546",
+    "tanim": "32,5 cm kalınlıkta techizatsız gazbeton duvar bloğu (500 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 649.38,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2547",
+    "tanim": "35 cm kalınlıkta techizatsız gazbeton duvar bloğu (500 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 699.33,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2561",
+    "tanim": "Teçhizatsız gazbeton duvar blokları (5,00 N/mm² ve 600 kg/m³)",
+    "birim": "m³",
+    "birimFiyat": 2115.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2562",
+    "tanim": "7,5 cm kalınlıkta techizatsız gazbeton duvar bloğu (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 158.69,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2563",
+    "tanim": "8,5 cm kalınlıkta techizatsız gazbeton duvar bloğu (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 179.85,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2564",
+    "tanim": "9 cm kalınlıkta techizatsız gazbeton duvar bloğu (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 190.43,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2565",
+    "tanim": "10 cm kalınlıkta techizatsız gazbeton duvar bloğu (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 211.58,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2566",
+    "tanim": "12,5 cm kalınlıkta techizatsız gazbeton duvar bloğu (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 264.49,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2567",
+    "tanim": "13,5cm kalınlıkta techizatsız gazbeton duvar bloğu (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 285.64,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2568",
+    "tanim": "15 cm kalınlıkta techizatsız gazbeton duvar bloğu (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 317.38,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2569",
+    "tanim": "17,5 cm kalınlıkta techizatsız gazbeton duvar bloğu (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 370.28,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2570",
+    "tanim": "19 cm kalınlıkta techizatsız gazbeton duvar bloğu (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 402.01,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2571",
+    "tanim": "20 cm kalınlıkta techizatsız gazbeton duvar bloğu (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 423.17,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2572",
+    "tanim": "22,5 cm kalınlıkta techizatsız gazbeton duvar bloğu (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 476.07,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2573",
+    "tanim": "25 cm kalınlıkta techizatsız gazbeton duvar bloğu (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 528.96,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2574",
+    "tanim": "27,5 cm kalınlıkta techizatsız gazbeton duvar bloğu (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 581.86,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2575",
+    "tanim": "30 cm kalınlıkta techizatsız gazbeton duvar bloğu (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 634.75,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2576",
+    "tanim": "32,5 cm kalınlıkta techizatsız gazbeton duvar bloğu (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 687.65,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2577",
+    "tanim": "35 cm kalınlıkta techizatsız gazbeton duvar bloğu (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 740.54,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2591",
+    "tanim": "Techizatsız gazbeton duvar blokları (≥ 2,00 N/mm² ve 350 kg/m³)",
+    "birim": "m³",
+    "birimFiyat": 1896.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2592",
+    "tanim": "7,5 cm kalınlıkta techizatsız gazbeton duvar bloğu (350 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 142.27,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2593",
+    "tanim": "8,5 cm kalınlıkta techizatsız gazbeton duvar bloğu (350 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 161.64,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2594",
+    "tanim": "9 cm kalınlıkta techizatsız gazbeton duvar bloğu (350 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 170.73,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2595",
+    "tanim": "10 cm kalınlıkta techizatsız gazbeton duvar bloğu (350 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 189.7,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2596",
+    "tanim": "12,5 cm kalınlıkta techizatsız gazbeton duvar bloğu (350 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 237.12,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2597",
+    "tanim": "13,5 cm kalınlıkta techizatsız gazbeton duvar bloğu (350 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 256.09,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2598",
+    "tanim": "15 cm kalınlıkta techizatsız gazbeton duvar bloğu (350 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 284.54,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2599",
+    "tanim": "17,5 cm kalınlıkta techizatsız gazbeton duvar bloğu (350 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 331.97,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2600",
+    "tanim": "19 cm kalınlıkta techizatsız gazbeton duvar bloğu (350 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 360.42,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2601",
+    "tanim": "20 cm kalınlıkta techizatsız gazbeton duvar bloğu (350 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 379.39,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2602",
+    "tanim": "22,5 cm kalınlıkta techizatsız gazbeton duvar bloğu (350 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 426.82,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2603",
+    "tanim": "25 cm kalınlıkta techizatsız gazbeton duvar bloğu (350 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 474.25,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2604",
+    "tanim": "27,5 cm kalınlıkta techizatsız gazbeton duvar bloğu (350 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 521.66,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2605",
+    "tanim": "30 cm kalınlıkta techizatsız gazbeton duvar bloğu (350 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 569.09,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2606",
+    "tanim": "32,5 cm kalınlıkta techizatsız gazbeton duvar bloğu (350 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 616.51,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2607",
+    "tanim": "35 cm kalınlıkta techizatsız gazbeton duvar bloğu (350 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 663.94,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2621",
+    "tanim": "Gazbeton asmolen blokları (2,50 N/mm² ve 400 kg/m³)",
+    "birim": "m³",
+    "birimFiyat": 1750.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2622",
+    "tanim": "15 cm yükseklikte gazbeton asmolen bloğu",
+    "birim": "m²",
+    "birimFiyat": 262.31,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2623",
+    "tanim": "17,5 cm yükseklikte gazbeton asmolen bloğu",
+    "birim": "m²",
+    "birimFiyat": 306.03,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2624",
+    "tanim": "20 cm yükseklikte gazbeton asmolen bloğu",
+    "birim": "m²",
+    "birimFiyat": 349.75,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2625",
+    "tanim": "22,5 cm yükseklikte gazbeton asmolen bloğu",
+    "birim": "m²",
+    "birimFiyat": 393.47,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2626",
+    "tanim": "25 cm yükseklikte gazbeton asmolen bloğu",
+    "birim": "m²",
+    "birimFiyat": 437.19,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2627",
+    "tanim": "27,5 cm yükseklikte gazbeton asmolen bloğu",
+    "birim": "m²",
+    "birimFiyat": 480.91,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2628",
+    "tanim": "30 cm yükseklikte gazbeton asmolen bloğu",
+    "birim": "m²",
+    "birimFiyat": 524.63,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2641",
+    "tanim": "Techizatlı gazbeton lento (3,50 N/mm² ve 500 kg/m³)",
+    "birim": "m³",
+    "birimFiyat": 5248.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2642",
+    "tanim": "7,5 cm kalınlıkta techizatlı gazbeton lento",
+    "birim": "m²",
+    "birimFiyat": 393.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2643",
+    "tanim": "8,5 cm kalınlıkta techizatlı gazbeton lento",
+    "birim": "m²",
+    "birimFiyat": 446.08,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2644",
+    "tanim": "9 cm kalınlıkta techizatlı gazbeton lento",
+    "birim": "m²",
+    "birimFiyat": 472.32,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2645",
+    "tanim": "10 cm kalınlıkta techizatlı gazbeton lento",
+    "birim": "m²",
+    "birimFiyat": 524.08,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2646",
+    "tanim": "12,5 cm kalınlıkta techizatlı gazbeton lento",
+    "birim": "m²",
+    "birimFiyat": 656.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2647",
+    "tanim": "13,5cm kalınlıkta techizatlı gazbeton lento",
+    "birim": "m²",
+    "birimFiyat": 708.48,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2648",
+    "tanim": "15 cm kalınlıkta techizatlı gazbeton lento",
+    "birim": "m²",
+    "birimFiyat": 787.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2649",
+    "tanim": "17,5 cm kalınlıkta techizatlı gazbeton lento",
+    "birim": "m²",
+    "birimFiyat": 918.4,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2650",
+    "tanim": "19 cm kalınlıkta techizatlı gazbeton lento",
+    "birim": "m²",
+    "birimFiyat": 997.12,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2651",
+    "tanim": "20 cm kalınlıkta techizatlı gazbeton lento",
+    "birim": "m²",
+    "birimFiyat": 1049.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2652",
+    "tanim": "22,5 cm kalınlıkta techizatlı gazbeton lento",
+    "birim": "m²",
+    "birimFiyat": 1180.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2653",
+    "tanim": "25 cm kalınlıkta techizatlı gazbeton lento",
+    "birim": "m²",
+    "birimFiyat": 1312.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2654",
+    "tanim": "27,5 cm kalınlıkta techizatlı gazbeton lento",
+    "birim": "m²",
+    "birimFiyat": 1443.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2655",
+    "tanim": "30 cm kalınlıkta techizatlı gazbeton lento",
+    "birim": "m²",
+    "birimFiyat": 1574.4,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2656",
+    "tanim": "32,5 cm kalınlıkta techizatlı gazbeton lento",
+    "birim": "m²",
+    "birimFiyat": 1705.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2657",
+    "tanim": "35 cm kalınlıkta techizatlı gazbeton lento",
+    "birim": "m²",
+    "birimFiyat": 1836.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2671",
+    "tanim": "Techizatlı gazbeton lento (5,00 N/mm² ve 600 kg/m³)",
+    "birim": "m³",
+    "birimFiyat": 5544.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2672",
+    "tanim": "7,5 cm kalınlıkta techizatlı gazbeton lento (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 415.87,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2673",
+    "tanim": "8,5 cm kalınlıkta techizatlı gazbeton lento (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 471.32,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2674",
+    "tanim": "9 cm kalınlıkta techizatlı gazbeton lento (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 499.05,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2675",
+    "tanim": "10 cm kalınlıkta techizatlı gazbeton lento (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 554.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2676",
+    "tanim": "12,5 cm kalınlıkta techizatlı gazbeton lento (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 693.12,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2677",
+    "tanim": "13,5cm kalınlıkta techizatlı gazbeton lento (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 748.57,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2678",
+    "tanim": "15 cm kalınlıkta techizatlı gazbeton lento (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 831.74,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  }
+]
