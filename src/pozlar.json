@@ -1,0 +1,5130 @@
+[
+  {
+    "pozNo": "10.130.2679",
+    "tanim": "17,5 cm kalınlıkta techizatlı gazbeton lento (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 970.37,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2680",
+    "tanim": "19 cm kalınlıkta techizatlı gazbeton lento (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 1053.54,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2681",
+    "tanim": "20 cm kalınlıkta techizatlı gazbeton lento (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 1108.99,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2682",
+    "tanim": "22,5 cm kalınlıkta techizatlı gazbeton lento (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 1247.62,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2683",
+    "tanim": "25 cm kalınlıkta techizatlı gazbeton lento (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 1386.24,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2684",
+    "tanim": "27,5 cm kalınlıkta techizatlı gazbeton lento (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 1524.36,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2685",
+    "tanim": "30 cm kalınlıkta techizatlı gazbeton lento (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 1663.49,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2686",
+    "tanim": "32,5 cm kalınlıkta techizatlı gazbeton lento (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 1802.11,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2687",
+    "tanim": "35 cm kalınlıkta techizatlı gazbeton lento (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 1940.7,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2701",
+    "tanim": "Techizatlı gazbeton döşeme elemanı (600 kg/m³)",
+    "birim": "m³",
+    "birimFiyat": 5248.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2702",
+    "tanim": "10 cm kalınlıkta techizatlı gazbeton döşeme elemanı",
+    "birim": "m²",
+    "birimFiyat": 524.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2703",
+    "tanim": "12,5 cm kalınlıkta techizatlı gazbeton döşeme elemanı",
+    "birim": "m²",
+    "birimFiyat": 656.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2704",
+    "tanim": "15 cm kalınlıkta techizatlı gazbeton döşeme elemanı",
+    "birim": "m²",
+    "birimFiyat": 787.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2705",
+    "tanim": "17,5 cm kalınlıkta techizatlı gazbeton döşeme elemanı",
+    "birim": "m²",
+    "birimFiyat": 918.4,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2706",
+    "tanim": "20 cm kalınlıkta techizatlı gazbeton döşeme elemanı",
+    "birim": "m²",
+    "birimFiyat": 1049.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2707",
+    "tanim": "22,5 cm kalınlıkta techizatlı gazbeton döşeme elemanı",
+    "birim": "m²",
+    "birimFiyat": 1180.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2708",
+    "tanim": "25 cm kalınlıkta techizatlı gazbeton döşeme elemanı",
+    "birim": "m²",
+    "birimFiyat": 1312.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2709",
+    "tanim": "27,5 cm kalınlıkta techizatlı gazbeton döşeme elemanı",
+    "birim": "m²",
+    "birimFiyat": 1443.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2721",
+    "tanim": "Techizatlı gazbeton çatı elemanı (500 kg/m³)",
+    "birim": "m³",
+    "birimFiyat": 4669.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2722",
+    "tanim": "10 cm kalınlıkta techizatlı gazbeton çatı elemanı",
+    "birim": "m²",
+    "birimFiyat": 466.94,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2743",
+    "tanim": "12,5 cm kalınlıkta techizatlı gazbeton duvar elemanı",
+    "birim": "m²",
+    "birimFiyat": 583.68,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2744",
+    "tanim": "15 cm kalınlıkta techizatlı gazbeton duvar elemanı",
+    "birim": "m²",
+    "birimFiyat": 700.42,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2745",
+    "tanim": "17,5 cm kalınlıkta techizatlı gazbeton duvar elemanı",
+    "birim": "m²",
+    "birimFiyat": 817.15,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2746",
+    "tanim": "20 cm kalınlıkta techizatlı gazbeton duvar elemanı",
+    "birim": "m²",
+    "birimFiyat": 933.89,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2747",
+    "tanim": "22,5 cm kalınlıkta techizatlı gazbeton duvar elemanı",
+    "birim": "m²",
+    "birimFiyat": 1050.62,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2748",
+    "tanim": "25 cm kalınlıkta techizatlı gazbeton duvar elemanı",
+    "birim": "m²",
+    "birimFiyat": 1167.36,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2749",
+    "tanim": "27,5 cm kalınlıkta techizatlı gazbeton duvar elemanı",
+    "birim": "m²",
+    "birimFiyat": 1284.1,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2750",
+    "tanim": "30 cm kalınlıkta techizatlı gazbeton duvar elemanı",
+    "birim": "m²",
+    "birimFiyat": 1400.83,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2761",
+    "tanim": "Techizatlı gazbeton duvar elemanı (600 kg/m³)",
+    "birim": "m³",
+    "birimFiyat": 5544.96,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2762",
+    "tanim": "10 cm kalınlıkta techizatlı gazbeton duvar elemanı (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 554.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2763",
+    "tanim": "12,5 cm kalınlıkta techizatlı gazbeton duvar elemanı (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 693.12,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2764",
+    "tanim": "15 cm kalınlıkta techizatlı gazbeton duvar elemanı (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 831.74,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2765",
+    "tanim": "17,5 cm kalınlıkta techizatlı gazbeton duvar elemanı (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 970.37,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2766",
+    "tanim": "20 cm kalınlıkta techizatlı gazbeton duvar elemanı (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 1108.99,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2767",
+    "tanim": "22,5 cm kalınlıkta techizatlı gazbeton duvar elemanı (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 1247.62,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2768",
+    "tanim": "25 cm kalınlıkta techizatlı gazbeton duvar elemanı (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 1386.24,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2769",
+    "tanim": "27,5 cm kalınlıkta techizatlı gazbeton duvar elemanı (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 1524.86,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2770",
+    "tanim": "30 cm kalınlıkta techizatlı gazbeton duvar elemanı (600 kg/m³)",
+    "birim": "m²",
+    "birimFiyat": 1663.49,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2902",
+    "tanim": "10 cm kalınlıkta taşıyıcı olmayan bimsbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 87.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2903",
+    "tanim": "13,5 cm kalınlıkta taşıyıcı olmayan bimsbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 115.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2904",
+    "tanim": "15 cm kalınlıkta taşıyıcı olmayan bimsbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 130.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2905",
+    "tanim": "17,5 cm kalınlıkta taşıyıcı olmayan bimsbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 152.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2906",
+    "tanim": "19 cm kalınlıkta taşıyıcı olmayan bimsbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 166.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2907",
+    "tanim": "25 cm kalınlıkta taşıyıcı olmayan bimsbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 217.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2908",
+    "tanim": "30 cm kalınlıkta taşıyıcı olmayan bimsbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 254.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2921",
+    "tanim": "10 cm kalınlıkta taşıyıcı bimsbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 101.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2922",
+    "tanim": "15 cm kalınlıkta taşıyıcı bimsbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 150.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2923",
+    "tanim": "19 cm kalınlıkta taşıyıcı bimsbeton duvar bloğu",
+    "birim": "m²",
+    "birimFiyat": 184.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2931",
+    "tanim": "20 cm yükseklikte bimsbeton asmolen bloğu",
+    "birim": "m²",
+    "birimFiyat": 142.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2932",
+    "tanim": "22 cm yükseklikte bimsbeton asmolen bloğu",
+    "birim": "m²",
+    "birimFiyat": 157.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2933",
+    "tanim": "23 cm yükseklikte bimsbeton asmolen bloğu",
+    "birim": "m²",
+    "birimFiyat": 164.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2934",
+    "tanim": "25 cm yükseklikte bimsbeton asmolen bloğu",
+    "birim": "m²",
+    "birimFiyat": 178.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2935",
+    "tanim": "28 cm yükseklikte bimsbeton asmolen bloğu",
+    "birim": "m²",
+    "birimFiyat": 195.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2936",
+    "tanim": "30 cm yükseklikte bimsbeton asmolen bloğu",
+    "birim": "m²",
+    "birimFiyat": 215.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2937",
+    "tanim": "32 cm yükseklikte bimsbeton asmolen bloğu",
+    "birim": "m²",
+    "birimFiyat": 229.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2938",
+    "tanim": "35 cm yükseklikte bimsbeton asmolen bloğu",
+    "birim": "m²",
+    "birimFiyat": 246.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2951",
+    "tanim": "10 cm kalınlıkta techizatlı bimsbeton lento",
+    "birim": "m²",
+    "birimFiyat": 362.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2952",
+    "tanim": "13,5 cm kalınlıkta techizatlı bimsbeton lento",
+    "birim": "m²",
+    "birimFiyat": 507.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2953",
+    "tanim": "15 cm kalınlıkta techizatlı bimsbeton lento",
+    "birim": "m²",
+    "birimFiyat": 567.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2954",
+    "tanim": "19 cm kalınlıkta techizatlı bimsbeton lento",
+    "birim": "m²",
+    "birimFiyat": 727.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2955",
+    "tanim": "Bimsbeton tutkalı",
+    "birim": "Kg",
+    "birimFiyat": 4.92,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3001",
+    "tanim": "9 cm kalınlıkta hafif agregalı beton kargir birim",
+    "birim": "m²",
+    "birimFiyat": 82.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3002",
+    "tanim": "14 cm kalınlıkta hafif agregalı beton kargir birim",
+    "birim": "m²",
+    "birimFiyat": 125.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3003",
+    "tanim": "19 cm kalınlıkta hafif agregalı beton kargir birim",
+    "birim": "m²",
+    "birimFiyat": 171.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3004",
+    "tanim": "24 cm kalınlıkta hafif agregalı beton kargir birim",
+    "birim": "m²",
+    "birimFiyat": 214.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3005",
+    "tanim": "29 cm kalınlıkta hafif agregalı beton kargir birim",
+    "birim": "m²",
+    "birimFiyat": 248.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3052",
+    "tanim": "15 cm kalınlıkta dört gözü dolgulu beton kargir birim",
+    "birim": "m²",
+    "birimFiyat": 156.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3054",
+    "tanim": "19 cm kalınlıkta dört gözü dolgulu beton kargir birim",
+    "birim": "m²",
+    "birimFiyat": 171.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3056",
+    "tanim": "22,5 cm kalınlıkta dört gözü dolgulu beton kargir birim",
+    "birim": "m²",
+    "birimFiyat": 200.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3101",
+    "tanim": "14 cm kalınlıkta yalıtım tabakalı sandviç hafif kargir birim (EPS)",
+    "birim": "m²",
+    "birimFiyat": 314.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3102",
+    "tanim": "15 cm kalınlıkta yalıtım tabakalı sandviç hafif kargir birim (EPS)",
+    "birim": "m²",
+    "birimFiyat": 156.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3103",
+    "tanim": "19 cm kalınlıkta yalıtım tabakalı sandviç hafif kargir birim (EPS)",
+    "birim": "m²",
+    "birimFiyat": 168.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3104",
+    "tanim": "19,5 cm kalınlıkta yalıtım tabakalı sandviç hafif kargir birim (EPS)",
+    "birim": "m²",
+    "birimFiyat": 370.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3105",
+    "tanim": "20 cm kalınlıkta yalıtım tabakalı sandviç hafif kargir birim (EPS)",
+    "birim": "m²",
+    "birimFiyat": 171.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3106",
+    "tanim": "14 cm kalınlıkta lento (EPS yalıtımlı)",
+    "birim": "m²",
+    "birimFiyat": 2011.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3107",
+    "tanim": "19,5 cm kalınlıkta lento (EPS yalıtımlı)",
+    "birim": "m²",
+    "birimFiyat": 2315.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3108",
+    "tanim": "20 cm kalınlıkta asmolen bloğu (EPS yalıtımlı)",
+    "birim": "m²",
+    "birimFiyat": 316.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3109",
+    "tanim": "22,5 cm kalınlıkta asmolen bloğu (EPS yalıtımlı)",
+    "birim": "m²",
+    "birimFiyat": 329.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3110",
+    "tanim": "25 cm kalınlıkta asmolen bloğu (EPS yalıtımlı)",
+    "birim": "m²",
+    "birimFiyat": 336.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3151",
+    "tanim": "14,5 cm kalınlıkta yalıtım tabakalı sandviç hafif kargir birim (Taş Yünü)",
+    "birim": "m²",
+    "birimFiyat": 247.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3152",
+    "tanim": "19,5 cm kalınlıkta yalıtım tabakalı sandviç hafif kargir birim (Taş Yünü)",
+    "birim": "m²",
+    "birimFiyat": 329.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3153",
+    "tanim": "24,5 cm kalınlıkta yalıtım tabakalı sandviç hafif kargir birim (Taş Yünü)",
+    "birim": "m²",
+    "birimFiyat": 374.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3154",
+    "tanim": "29,5 cm kalınlıkta yalıtım tabakalı sandviç hafif kargir birim (Taş Yünü)",
+    "birim": "m²",
+    "birimFiyat": 462.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3171",
+    "tanim": "14,5 cm kalınlıkta ses yalıtımlı duvar bloğu (Taş Yünü)",
+    "birim": "m²",
+    "birimFiyat": 316.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3172",
+    "tanim": "19,5 cm kalınlıkta ses yalıtımlı duvar bloğu (Taş Yünü)",
+    "birim": "m²",
+    "birimFiyat": 386.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3173",
+    "tanim": "24,5 cm kalınlıkta ses yalıtımlı duvar bloğu (Taş Yünü)",
+    "birim": "m²",
+    "birimFiyat": 450.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3174",
+    "tanim": "29,5 cm kalınlıkta ses yalıtımlı duvar bloğu (Taş Yünü)",
+    "birim": "m²",
+    "birimFiyat": 526.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3201",
+    "tanim": "37,5 X 11,5 X 19 cm kireç kumtaşı duvar bloğu",
+    "birim": "Adet",
+    "birimFiyat": 3.35,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3202",
+    "tanim": "37,5 X 19 X 19 cm kireç kumtaşı duvar bloğu",
+    "birim": "Adet",
+    "birimFiyat": 5.65,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3203",
+    "tanim": "37,5 X 24 X 19 cm kireç kumtaşı duvar bloğu",
+    "birim": "Adet",
+    "birimFiyat": 6.3,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3251",
+    "tanim": "8 cm kalınlığında boşluklu alçı blok",
+    "birim": "m²",
+    "birimFiyat": 144.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3252",
+    "tanim": "10 cm kalınlığında boşluklu alçı blok",
+    "birim": "m²",
+    "birimFiyat": 166.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3301",
+    "tanim": "Genleştirilmiş perlitten mamul levha ve bloklar",
+    "birim": "m³",
+    "birimFiyat": 819.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3401",
+    "tanim": "Taşıyıcı olmayan köpük beton kagir birimler",
+    "birim": "m³",
+    "birimFiyat": 531.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3501",
+    "tanim": "EPS katkılı beton blok ve levhalar",
+    "birim": "m³",
+    "birimFiyat": 1336.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.3521",
+    "tanim": "EPS katkılı beton blok tutkalı",
+    "birim": "Kg",
+    "birimFiyat": 3.62,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4001",
+    "tanim": "Üst ve alt kiremit (Alaturka) (150 çevrim dayanımlı)",
+    "birim": "m²",
+    "birimFiyat": 383.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4002",
+    "tanim": "Üst ve alt kiremit (Alaturka) (90 çevrim dayanımlı)",
+    "birim": "m²",
+    "birimFiyat": 344.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4003",
+    "tanim": "Üst ve alt kiremit (Engop kaplamalı - 150 çevrim)",
+    "birim": "m²",
+    "birimFiyat": 483.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4004",
+    "tanim": "Üst ve alt kiremit (Engop kaplamalı - 90 çevrim)",
+    "birim": "m²",
+    "birimFiyat": 423.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4005",
+    "tanim": "Yan ve üstten kenetli kiremit (150 çevrim)",
+    "birim": "m²",
+    "birimFiyat": 205.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4006",
+    "tanim": "Yan ve üstten kenetli kiremit (90 çevrim)",
+    "birim": "m²",
+    "birimFiyat": 178.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4007",
+    "tanim": "Yan ve üstten kenetli kiremit (Engop - 150 çevrim)",
+    "birim": "m²",
+    "birimFiyat": 290.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4008",
+    "tanim": "Yan ve üstten kenetli kiremit (Engop - 90 çevrim)",
+    "birim": "m²",
+    "birimFiyat": 258.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4009",
+    "tanim": "Mahya bağlantı parçası (150 çevrim)",
+    "birim": "m",
+    "birimFiyat": 63.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4010",
+    "tanim": "Mahya bağlantı parçası (90 çevrim)",
+    "birim": "m",
+    "birimFiyat": 43.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4011",
+    "tanim": "Mahya bağlantı parçası (Engop - 150 çevrim)",
+    "birim": "m",
+    "birimFiyat": 86.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4012",
+    "tanim": "Mahya bağlantı parçası (Engop - 90 çevrim)",
+    "birim": "m",
+    "birimFiyat": 66.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4101",
+    "tanim": "Beton kiremit (renksiz)",
+    "birim": "m²",
+    "birimFiyat": 120.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4102",
+    "tanim": "Beton mahya kiremiti (renksiz)",
+    "birim": "m",
+    "birimFiyat": 76.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4103",
+    "tanim": "Beton kiremit (demir oksit boyalı)",
+    "birim": "m²",
+    "birimFiyat": 148.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4104",
+    "tanim": "Beton mahya kiremiti (demir oksit boyalı)",
+    "birim": "m",
+    "birimFiyat": 99.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4105",
+    "tanim": "Beton kiremit (sırlı)",
+    "birim": "m²",
+    "birimFiyat": 178.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4106",
+    "tanim": "Beton mahya kiremiti (sırlı)",
+    "birim": "m",
+    "birimFiyat": 125.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4121",
+    "tanim": "Perlitli beton kiremit (renksiz)",
+    "birim": "m²",
+    "birimFiyat": 95.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4122",
+    "tanim": "Perlitli beton mahya kiremiti (renksiz)",
+    "birim": "m",
+    "birimFiyat": 67.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4123",
+    "tanim": "Perlitli beton kiremit (demir oksit boyalı)",
+    "birim": "m²",
+    "birimFiyat": 120.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4124",
+    "tanim": "Perlitli beton mahya kiremiti (demir oksit boyalı)",
+    "birim": "m",
+    "birimFiyat": 77.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4125",
+    "tanim": "Perlitli beton kiremit (sırlı)",
+    "birim": "m²",
+    "birimFiyat": 148.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4126",
+    "tanim": "Perlitli beton mahya kiremiti (sırlı)",
+    "birim": "m",
+    "birimFiyat": 112.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4201",
+    "tanim": "Aşık taşıma profili (Alüminyum)",
+    "birim": "Adet",
+    "birimFiyat": 29.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4202",
+    "tanim": "Mahya havalandırma bandı",
+    "birim": "m",
+    "birimFiyat": 129.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4203",
+    "tanim": "Mahya tespit aparatı",
+    "birim": "Adet",
+    "birimFiyat": 9.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4204",
+    "tanim": "Duvar/baca dibi bandı (25/40 cm)",
+    "birim": "m",
+    "birimFiyat": 255.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4205",
+    "tanim": "Duvar/baca dibi bandı (50/60 cm)",
+    "birim": "m",
+    "birimFiyat": 524.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4206",
+    "tanim": "Alüminyum baskı çıtası (6 cm)",
+    "birim": "m",
+    "birimFiyat": 48.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4207",
+    "tanim": "PVC oluk/vadidere su yalıtımı",
+    "birim": "m",
+    "birimFiyat": 205.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4208",
+    "tanim": "Alüminyum oluk/vadidere su yalıtımı",
+    "birim": "m",
+    "birimFiyat": 164.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4209",
+    "tanim": "Alaturka kiremit tespit aparatı",
+    "birim": "Adet",
+    "birimFiyat": 1.78,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4210",
+    "tanim": "Saçak Havalandırma Tarağı",
+    "birim": "Adet",
+    "birimFiyat": 26.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4501",
+    "tanim": "Çam kerestesi (I.sınıf)",
+    "birim": "m³",
+    "birimFiyat": 8500.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4502",
+    "tanim": "Çam kerestesi (II.sınıf)",
+    "birim": "m³",
+    "birimFiyat": 7500.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4503",
+    "tanim": "Yuvarlak yapı odunları (Çam)",
+    "birim": "m³",
+    "birimFiyat": 4200.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4504",
+    "tanim": "Beyaz çam kerestesi (I.sınıf)",
+    "birim": "m³",
+    "birimFiyat": 8500.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4505",
+    "tanim": "Beyaz çam kerestesi (II.sınıf)",
+    "birim": "m³",
+    "birimFiyat": 7500.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4506",
+    "tanim": "Kavak kerestesi",
+    "birim": "m³",
+    "birimFiyat": 4350.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4507",
+    "tanim": "Meşe kerestesi",
+    "birim": "m³",
+    "birimFiyat": 16000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4508",
+    "tanim": "Ceviz kerestesi",
+    "birim": "m³",
+    "birimFiyat": 18000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4509",
+    "tanim": "Kayın kerestesi",
+    "birim": "m³",
+    "birimFiyat": 10000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4601",
+    "tanim": "Plywood film kapsız 15 mm",
+    "birim": "m²",
+    "birimFiyat": 300.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4602",
+    "tanim": "Plywood film kapsız 18 mm",
+    "birim": "m²",
+    "birimFiyat": 345.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4603",
+    "tanim": "Plywood film kapsız 21 mm",
+    "birim": "m²",
+    "birimFiyat": 400.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4604",
+    "tanim": "Plywood film kaplı 15 mm",
+    "birim": "m²",
+    "birimFiyat": 370.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4605",
+    "tanim": "Plywood film kaplı 18 mm",
+    "birim": "m²",
+    "birimFiyat": 420.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4606",
+    "tanim": "Plywood film kaplı 21 mm",
+    "birim": "m²",
+    "birimFiyat": 465.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.4607",
+    "tanim": "I kesitli ahşap kiriş",
+    "birim": "m",
+    "birimFiyat": 230.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.5901",
+    "tanim": "5 cm sabit yükseklikte kör kalıp sistemi",
+    "birim": "m²",
+    "birimFiyat": 240.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.5902",
+    "tanim": "10 cm sabit yükseklikte kör kalıp sistemi",
+    "birim": "m²",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.5903",
+    "tanim": "15 cm sabit yükseklikte kör kalıp sistemi",
+    "birim": "m²",
+    "birimFiyat": 260.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.5911",
+    "tanim": "52x52x10 cm boşluklu döşeme kalıbı",
+    "birim": "Adet",
+    "birimFiyat": 70.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.5912",
+    "tanim": "52x52x13 cm boşluklu döşeme kalıbı",
+    "birim": "Adet",
+    "birimFiyat": 80.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.5913",
+    "tanim": "52x52x16 cm boşluklu döşeme kalıbı",
+    "birim": "Adet",
+    "birimFiyat": 90.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.6001",
+    "tanim": "Kalsiyum kireci CL 70S (Torbalı)",
+    "birim": "Ton",
+    "birimFiyat": 2660.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.6002",
+    "tanim": "Kalsiyum kireci CL 80S (Torbalı)",
+    "birim": "Ton",
+    "birimFiyat": 2870.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.6003",
+    "tanim": "Kalsiyum kireci CL 90S (Torbalı)",
+    "birim": "Ton",
+    "birimFiyat": 3046.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.6010",
+    "tanim": "Hidrolik kireç (HL 2)",
+    "birim": "Ton",
+    "birimFiyat": 4300.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.6011",
+    "tanim": "Hidrolik kireç (HL 3,5)",
+    "birim": "Ton",
+    "birimFiyat": 4569.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.6012",
+    "tanim": "Doğal hidrolik kireç (HL 3,5)",
+    "birim": "Ton",
+    "birimFiyat": 17740.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.6021",
+    "tanim": "Söndürülmemiş parça kalker kireci",
+    "birim": "Kg",
+    "birimFiyat": 2.69,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.9991",
+    "tanim": "Su",
+    "birim": "m³",
+    "birimFiyat": 38.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.160.1001",
+    "tanim": "Jel Dinamit",
+    "birim": "Kg",
+    "birimFiyat": 63.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.160.1002",
+    "tanim": "Emülsiyon türü patlayıcı",
+    "birim": "Kg",
+    "birimFiyat": 21.75,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.160.1003",
+    "tanim": "Amonyum nitrat, fuel-oil karışımı",
+    "birim": "Kg",
+    "birimFiyat": 21.45,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.160.1004",
+    "tanim": "Fitil (Katranlı, Emniyetli)",
+    "birim": "m",
+    "birimFiyat": 6.3,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.160.1005",
+    "tanim": "Kapsül (Adi)",
+    "birim": "Adet",
+    "birimFiyat": 10.4,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.160.1006",
+    "tanim": "Tavikli (Kapsül)",
+    "birim": "Adet",
+    "birimFiyat": 22.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.160.1021",
+    "tanim": "Kapsül (Elektrikli) (1.50 m tel)",
+    "birim": "Adet",
+    "birimFiyat": 30.15,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.160.1022",
+    "tanim": "Kapsül (Elektrikli) (2.50 m tel)",
+    "birim": "Adet",
+    "birimFiyat": 34.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.160.1023",
+    "tanim": "Kerozen (Gazyağı)",
+    "birim": "Kg",
+    "birimFiyat": 35.34,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.160.1024",
+    "tanim": "Likit petrol gazı (LPG)",
+    "birim": "Kg",
+    "birimFiyat": 40.04,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.160.1025",
+    "tanim": "Benzin",
+    "birim": "Kg",
+    "birimFiyat": 48.89,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.160.1026",
+    "tanim": "Mazot (Motorin)",
+    "birim": "Kg",
+    "birimFiyat": 43.84,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.160.1027",
+    "tanim": "Makine yağı",
+    "birim": "Kg",
+    "birimFiyat": 47.25,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.160.1028",
+    "tanim": "Yanmış yağ",
+    "birim": "Kg",
+    "birimFiyat": 3.06,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.160.1029",
+    "tanim": "Üstübü",
+    "birim": "Kg",
+    "birimFiyat": 12.7,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.160.1030",
+    "tanim": "Elektrik enerjisi",
+    "birim": "Kwh",
+    "birimFiyat": 4.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.160.1031",
+    "tanim": "Karpit",
+    "birim": "Kg",
+    "birimFiyat": 11.85,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.160.1032",
+    "tanim": "Oksijen tüpü 20 lt",
+    "birim": "Adet",
+    "birimFiyat": 210.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.160.1033",
+    "tanim": "Pressiometre tazyikli hava tüpü",
+    "birim": "Adet",
+    "birimFiyat": 210.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.160.1034",
+    "tanim": "Teknik Amonyum Nitrat",
+    "birim": "Kg",
+    "birimFiyat": 27.56,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.160.1035",
+    "tanim": "Elektrod (3,25-4 mm)",
+    "birim": "Adet",
+    "birimFiyat": 1.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1001",
+    "tanim": "İşlenmiş meşe parke (I.sınıf, 15-16 mm)",
+    "birim": "m²",
+    "birimFiyat": 819.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1011",
+    "tanim": "İşlenmiş meşe parke (II.sınıf, 15-16 mm)",
+    "birim": "m²",
+    "birimFiyat": 750.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1021",
+    "tanim": "İşlenmiş meşe parke (III.sınıf, 15-16 mm)",
+    "birim": "m²",
+    "birimFiyat": 665.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1031",
+    "tanim": "İşlenmiş kayın parke (I.sınıf, 15-16 mm)",
+    "birim": "m²",
+    "birimFiyat": 621.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1041",
+    "tanim": "İşlenmiş kayın parke (II.sınıf, 15-16 mm)",
+    "birim": "m²",
+    "birimFiyat": 552.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1051",
+    "tanim": "İşlenmiş kayın parke (III.sınıf, 15-16 mm)",
+    "birim": "m²",
+    "birimFiyat": 483.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1201",
+    "tanim": "Laminat yer kaplaması (AC1 Sınıf 21)",
+    "birim": "m²",
+    "birimFiyat": 225.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1202",
+    "tanim": "Laminat yer kaplaması (AC3 Sınıf 23-31)",
+    "birim": "m²",
+    "birimFiyat": 258.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1203",
+    "tanim": "Laminat yer kaplaması (AC4 Sınıf 32)",
+    "birim": "m²",
+    "birimFiyat": 303.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1601",
+    "tanim": "Ceviz kaplama (0.8 mm)",
+    "birim": "m²",
+    "birimFiyat": 121.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1602",
+    "tanim": "Meşe kaplama (0.8 mm)",
+    "birim": "m²",
+    "birimFiyat": 89.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1603",
+    "tanim": "Maun kaplama (0.6 mm)",
+    "birim": "m²",
+    "birimFiyat": 74.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1604",
+    "tanim": "Kayın kaplama (0.8 mm)",
+    "birim": "m²",
+    "birimFiyat": 39.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1701",
+    "tanim": "Isıl işlem çam cephe kaplaması (19 mm)",
+    "birim": "m²",
+    "birimFiyat": 1179.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1702",
+    "tanim": "Isıl işlem çam yer kaplaması (26 mm)",
+    "birim": "m²",
+    "birimFiyat": 1254.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1703",
+    "tanim": "Isıl işlem iroko cephe/yer kaplaması (19 mm)",
+    "birim": "m²",
+    "birimFiyat": 1980.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1704",
+    "tanim": "Isıl işlem dişbudak cephe/yer kaplaması (21 mm)",
+    "birim": "m²",
+    "birimFiyat": 1732.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1705",
+    "tanim": "Isıl işlem dişbudak cephe/yer kaplaması (25 mm)",
+    "birim": "m²",
+    "birimFiyat": 2085.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1721",
+    "tanim": "Isıl işlem çam kereste",
+    "birim": "m³",
+    "birimFiyat": 32000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1722",
+    "tanim": "Isıl işlem dişbudak kereste",
+    "birim": "m³",
+    "birimFiyat": 67650.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1723",
+    "tanim": "Isıl işlem iroko kereste",
+    "birim": "m³",
+    "birimFiyat": 72600.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1801",
+    "tanim": "Kontraplak",
+    "birim": "m³",
+    "birimFiyat": 19687.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1901",
+    "tanim": "OSB/2 Tipi (6 mm)",
+    "birim": "m²",
+    "birimFiyat": 94.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1902",
+    "tanim": "OSB/2 Tipi (9 mm)",
+    "birim": "m²",
+    "birimFiyat": 112.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1903",
+    "tanim": "OSB/2 Tipi (11 mm)",
+    "birim": "m²",
+    "birimFiyat": 117.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1904",
+    "tanim": "OSB/2 Tipi (15 mm)",
+    "birim": "m²",
+    "birimFiyat": 180.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1905",
+    "tanim": "OSB/2 Tipi (18 mm)",
+    "birim": "m²",
+    "birimFiyat": 216.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1906",
+    "tanim": "OSB/2 Tipi (22 mm)",
+    "birim": "m²",
+    "birimFiyat": 265.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1921",
+    "tanim": "OSB/3 Tipi (6 mm)",
+    "birim": "m²",
+    "birimFiyat": 112.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1922",
+    "tanim": "OSB/3 Tipi (9 mm)",
+    "birim": "m²",
+    "birimFiyat": 121.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1923",
+    "tanim": "OSB/3 Tipi (11 mm)",
+    "birim": "m²",
+    "birimFiyat": 139.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1924",
+    "tanim": "OSB/3 Tipi (15 mm)",
+    "birim": "m²",
+    "birimFiyat": 193.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1925",
+    "tanim": "OSB/3 Tipi (18 mm)",
+    "birim": "m²",
+    "birimFiyat": 232.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.1926",
+    "tanim": "OSB/3 Tipi (22 mm)",
+    "birim": "m²",
+    "birimFiyat": 282.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2001",
+    "tanim": "Odun lifli levha Düz (3.0 mm)",
+    "birim": "m²",
+    "birimFiyat": 49.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2002",
+    "tanim": "Odun lifli levha Düz (4 mm)",
+    "birim": "m²",
+    "birimFiyat": 57.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2003",
+    "tanim": "Odun lifli levha Düz (5 mm)",
+    "birim": "m²",
+    "birimFiyat": 72.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2004",
+    "tanim": "Tavanlık, delikli (40X40 cm, 3.0 mm)",
+    "birim": "Adet",
+    "birimFiyat": 17.1,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2005",
+    "tanim": "Tavanlık, delikli boyalı (40X40 cm, 3.0 mm)",
+    "birim": "Adet",
+    "birimFiyat": 24.75,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2006",
+    "tanim": "Tavanlık, delikli (40X80 cm, 3.0 mm)",
+    "birim": "Adet",
+    "birimFiyat": 23.25,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2007",
+    "tanim": "Tavanlık, delikli boyalı (40X80 cm, 3.0 mm)",
+    "birim": "Adet",
+    "birimFiyat": 34.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2008",
+    "tanim": "Kordonlu (4 mm)",
+    "birim": "m²",
+    "birimFiyat": 24.75,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2009",
+    "tanim": "Yumuşak odun lifi levha (12.7 mm)",
+    "birim": "m²",
+    "birimFiyat": 34.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2101",
+    "tanim": "Yonga levha (4 mm)",
+    "birim": "m²",
+    "birimFiyat": 56.25,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2102",
+    "tanim": "Yonga levha (6 mm)",
+    "birim": "m²",
+    "birimFiyat": 76.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2103",
+    "tanim": "Yonga levha (8 mm)",
+    "birim": "m²",
+    "birimFiyat": 85.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2104",
+    "tanim": "Yonga levha (10 mm)",
+    "birim": "m²",
+    "birimFiyat": 99.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2105",
+    "tanim": "Yonga levha (13 mm)",
+    "birim": "m²",
+    "birimFiyat": 112.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2106",
+    "tanim": "Yonga levha (16 mm)",
+    "birim": "m²",
+    "birimFiyat": 123.75,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2107",
+    "tanim": "Yonga levha (19 mm)",
+    "birim": "m²",
+    "birimFiyat": 139.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2108",
+    "tanim": "Yonga levha (22 mm)",
+    "birim": "m²",
+    "birimFiyat": 150.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2109",
+    "tanim": "Yonga levha (25 mm)",
+    "birim": "m²",
+    "birimFiyat": 162.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2110",
+    "tanim": "Yonga levha (30 mm)",
+    "birim": "m²",
+    "birimFiyat": 195.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2111",
+    "tanim": "Delikli yonga levha (35 mm)",
+    "birim": "m²",
+    "birimFiyat": 247.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2112",
+    "tanim": "Delikli yonga levha (38 mm)",
+    "birim": "m²",
+    "birimFiyat": 270.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2201",
+    "tanim": "Sentetik reçine esaslı yonga levha (8 mm)",
+    "birim": "m²",
+    "birimFiyat": 121.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2202",
+    "tanim": "Sentetik reçine esaslı yonga levha (18 mm)",
+    "birim": "m²",
+    "birimFiyat": 203.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2203",
+    "tanim": "Sentetik reçine esaslı yonga levha (30 mm)",
+    "birim": "m²",
+    "birimFiyat": 345.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2301",
+    "tanim": "Mineral katkılı PVC kompozit levha (4 mm)",
+    "birim": "m²",
+    "birimFiyat": 592.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2302",
+    "tanim": "Mineral katkılı PVC kompozit levha (6 mm)",
+    "birim": "m²",
+    "birimFiyat": 678.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2303",
+    "tanim": "Mineral katkılı PVC kompozit levha (8 mm)",
+    "birim": "m²",
+    "birimFiyat": 708.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2304",
+    "tanim": "Mineral katkılı PVC kompozit levha (10 mm)",
+    "birim": "m²",
+    "birimFiyat": 816.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2305",
+    "tanim": "Mineral katkılı PVC kompozit levha (12 mm)",
+    "birim": "m²",
+    "birimFiyat": 846.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2307",
+    "tanim": "Mineral katkılı PVC kompozit levha (16 mm)",
+    "birim": "m²",
+    "birimFiyat": 1201.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2308",
+    "tanim": "Mineral katkılı PVC kompozit levha (18 mm)",
+    "birim": "m²",
+    "birimFiyat": 1408.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2401",
+    "tanim": "Kimyasal selülozik kaplamalı levha (İç)",
+    "birim": "m²",
+    "birimFiyat": 926.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.170.2402",
+    "tanim": "Kimyasal selülozik kaplamalı levha (Dış)",
+    "birim": "m²",
+    "birimFiyat": 1050.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1003",
+    "tanim": "Düz siyah sac (2.5 mm ve üzeri)",
+    "birim": "Kg",
+    "birimFiyat": 21.19,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1101",
+    "tanim": "Soğuk sac DC01 (0,29mm altı, <1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 30.94,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1102",
+    "tanim": "Soğuk sac DC01 (0,30-0,34mm, <1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 28.68,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1103",
+    "tanim": "Soğuk sac DC01 (0,35-0,39mm, <1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 28.68,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1104",
+    "tanim": "Soğuk sac DC01 (0,40-0,44mm, <1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 27.97,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1105",
+    "tanim": "Soğuk sac DC01 (0,45-0,49mm, <1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 27.23,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1106",
+    "tanim": "Soğuk sac DC01 (0,50-0,59mm, <1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 26.84,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1107",
+    "tanim": "Soğuk sac DC01 (0,60-0,69mm, <1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 26.7,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1108",
+    "tanim": "Soğuk sac DC01 (0,70-0,79mm, <1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 26.63,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1109",
+    "tanim": "Soğuk sac DC01 (0,80-0,89mm, <1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 26.63,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1110",
+    "tanim": "Soğuk sac DC01 (0,90-0,99mm, <1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 26.28,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1111",
+    "tanim": "Soğuk sac DC01 (1,00-1,49mm, <1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 26.28,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1112",
+    "tanim": "Soğuk sac DC01 (1,50mm ve üzeri, <1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 26.1,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1151",
+    "tanim": "Soğuk sac DC01 (0,29mm altı, >1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 31.04,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1152",
+    "tanim": "Soğuk sac DC01 (0,30-0,34mm, >1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 28.46,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1153",
+    "tanim": "Soğuk sac DC01 (0,35-0,39mm, >1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 28.46,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1154",
+    "tanim": "Soğuk sac DC01 (0,40-0,44mm, >1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 27.65,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1155",
+    "tanim": "Soğuk sac DC01 (0,45-0,49mm, >1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 26.98,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1156",
+    "tanim": "Soğuk sac DC01 (0,50-0,59mm, >1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 26.84,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1157",
+    "tanim": "Soğuk sac DC01 (0,60-0,69mm, >1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 26.42,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1158",
+    "tanim": "Soğuk sac DC01 (0,70-0,79mm, >1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 26.28,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1159",
+    "tanim": "Soğuk sac DC01 (0,80-0,89mm, >1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 26.31,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1160",
+    "tanim": "Soğuk sac DC01 (0,90-0,99mm, >1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 25.96,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1161",
+    "tanim": "Soğuk sac DC01 (1,00-1,49mm, >1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 25.96,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1162",
+    "tanim": "Soğuk sac DC01 (1,50mm ve üzeri, >1100mm)",
+    "birim": "Kg",
+    "birimFiyat": 25.78,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1201",
+    "tanim": "Sıcak levha (S235 JR) (5,00-7,99mm)",
+    "birim": "Kg",
+    "birimFiyat": 26.49,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1202",
+    "tanim": "Sıcak levha (S235 JR) (8,00-11,99mm)",
+    "birim": "Kg",
+    "birimFiyat": 25.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1203",
+    "tanim": "Sıcak levha (S235 JR) (12,00-15,99mm)",
+    "birim": "Kg",
+    "birimFiyat": 25.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1204",
+    "tanim": "Sıcak levha (S235 JR) (16,00-17,99mm)",
+    "birim": "Kg",
+    "birimFiyat": 24.54,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1205",
+    "tanim": "Sıcak levha (S235 JR) (18,00mm ve üzeri)",
+    "birim": "Kg",
+    "birimFiyat": 24.19,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1251",
+    "tanim": "Sıcak rulo sac (S235 JR) (1,50-1,59mm)",
+    "birim": "Kg",
+    "birimFiyat": 21.9,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1252",
+    "tanim": "Sıcak rulo sac (S235 JR) (1,60-1,79mm)",
+    "birim": "Kg",
+    "birimFiyat": 21.19,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1253",
+    "tanim": "Sıcak rulo sac (S235 JR) (1,80-1,99mm)",
+    "birim": "Kg",
+    "birimFiyat": 21.01,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1254",
+    "tanim": "Sıcak rulo sac (S235 JR) (2,00-2,19mm)",
+    "birim": "Kg",
+    "birimFiyat": 20.84,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1255",
+    "tanim": "Sıcak rulo sac (S235 JR) (2,20-2,49mm)",
+    "birim": "Kg",
+    "birimFiyat": 20.84,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1256",
+    "tanim": "Sıcak rulo sac (S235 JR) (2,50-2,99mm)",
+    "birim": "Kg",
+    "birimFiyat": 20.84,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1257",
+    "tanim": "Sıcak rulo sac (S235 JR) (3,00-4,99mm)",
+    "birim": "Kg",
+    "birimFiyat": 20.66,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1258",
+    "tanim": "Sıcak rulo sac (S235 JR) (5,00-7,99mm)",
+    "birim": "Kg",
+    "birimFiyat": 20.66,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1259",
+    "tanim": "Sıcak rulo sac (S235 JR) (8,00-11,99mm)",
+    "birim": "Kg",
+    "birimFiyat": 20.66,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1260",
+    "tanim": "Sıcak rulo sac (S235 JR) (12,00-15,00mm)",
+    "birim": "Kg",
+    "birimFiyat": 20.84,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1304",
+    "tanim": "Galvanizli boyalı oluklu/trapez sac",
+    "birim": "Kg",
+    "birimFiyat": 43.9,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1401",
+    "tanim": "Sıcak daldırma galvalume düz sac",
+    "birim": "Kg",
+    "birimFiyat": 36.7,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1402",
+    "tanim": "Sıcak daldırma galvalume boyalı düz sac",
+    "birim": "Kg",
+    "birimFiyat": 40.3,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1403",
+    "tanim": "Sıcak daldırma galvalume oluklu/trapez sac",
+    "birim": "Kg",
+    "birimFiyat": 39.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1404",
+    "tanim": "Sıcak daldırma galvalume boyalı oluklu sac",
+    "birim": "Kg",
+    "birimFiyat": 43.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1501",
+    "tanim": "Baklava desenli sac",
+    "birim": "Kg",
+    "birimFiyat": 36.7,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1601",
+    "tanim": "Paslanmaz çubuk (AISI 304)",
+    "birim": "Kg",
+    "birimFiyat": 93.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1602",
+    "tanim": "Paslanmaz çubuk (AISI 316)",
+    "birim": "Kg",
+    "birimFiyat": 130.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1603",
+    "tanim": "Paslanmaz sac (AISI 304)",
+    "birim": "Kg",
+    "birimFiyat": 91.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1604",
+    "tanim": "Paslanmaz sac (AISI 316)",
+    "birim": "Kg",
+    "birimFiyat": 121.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1605",
+    "tanim": "Paslanmaz boru (AISI 304)",
+    "birim": "Kg",
+    "birimFiyat": 108.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1606",
+    "tanim": "Paslanmaz boru (AISI 316)",
+    "birim": "Kg",
+    "birimFiyat": 162.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.1607",
+    "tanim": "Paslanmaz profil (AISI 304)",
+    "birim": "Kg",
+    "birimFiyat": 104.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2012",
+    "tanim": "Mat eloksallı, ısı yalıtımlı alüminyum profil",
+    "birim": "Kg",
+    "birimFiyat": 194.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2013",
+    "tanim": "Parlak eloksallı ısı yalıtımlı alüminyum profil",
+    "birim": "Kg",
+    "birimFiyat": 197.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2014",
+    "tanim": "Renkli-mat eloksallı ısı yalıtımlı profil",
+    "birim": "Kg",
+    "birimFiyat": 190.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2015",
+    "tanim": "Renkli-parlak eloksallı ısı yalıtımlı profil",
+    "birim": "Kg",
+    "birimFiyat": 197.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2016",
+    "tanim": "Elektrostatik toz boyalı ısı yalıtımlı profil",
+    "birim": "Kg",
+    "birimFiyat": 190.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2022",
+    "tanim": "Mat eloksallı PVC yalıtımlı alüminyum profil",
+    "birim": "Kg",
+    "birimFiyat": 163.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2023",
+    "tanim": "Parlak eloksallı PVC yalıtımlı alüminyum profil",
+    "birim": "Kg",
+    "birimFiyat": 168.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2024",
+    "tanim": "Renkli-mat PVC yalıtımlı alüminyum profil",
+    "birim": "Kg",
+    "birimFiyat": 168.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2025",
+    "tanim": "Renkli-parlak PVC yalıtımlı alüminyum profil",
+    "birim": "Kg",
+    "birimFiyat": 177.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2026",
+    "tanim": "Elektrostatik toz boyalı PVC yalıtımlı profil",
+    "birim": "Kg",
+    "birimFiyat": 177.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2101",
+    "tanim": "Alüminyum Düz Levha (AW 1100, 0.30 mm)",
+    "birim": "Kg",
+    "birimFiyat": 154.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2102",
+    "tanim": "Alüminyum Düz Levha (AW 1100, 0.50 mm)",
+    "birim": "Kg",
+    "birimFiyat": 153.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2103",
+    "tanim": "Alüminyum Düz Levha (AW 1100, 0.70 mm)",
+    "birim": "Kg",
+    "birimFiyat": 153.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2104",
+    "tanim": "Alüminyum Düz Levha (AW 1100, 3.00 mm)",
+    "birim": "Kg",
+    "birimFiyat": 151.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2111",
+    "tanim": "Alüminyum Düz Levha (AW 1050A, 0.30 mm)",
+    "birim": "Kg",
+    "birimFiyat": 154.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2112",
+    "tanim": "Alüminyum Düz Levha (AW 1050A, 0.50 mm)",
+    "birim": "Kg",
+    "birimFiyat": 153.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2113",
+    "tanim": "Alüminyum Düz Levha (AW 1050A, 0.70 mm)",
+    "birim": "Kg",
+    "birimFiyat": 153.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2114",
+    "tanim": "Alüminyum Düz Levha (AW 1050A, 3.00 mm)",
+    "birim": "Kg",
+    "birimFiyat": 151.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2121",
+    "tanim": "Alüminyum Düz Levha (AW 3003, 0.30 mm)",
+    "birim": "Kg",
+    "birimFiyat": 155.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2122",
+    "tanim": "Alüminyum Düz Levha (AW 3003, 0.50 mm)",
+    "birim": "Kg",
+    "birimFiyat": 154.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2123",
+    "tanim": "Alüminyum Düz Levha (AW 3003, 0.70 mm)",
+    "birim": "Kg",
+    "birimFiyat": 154.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2124",
+    "tanim": "Alüminyum Düz Levha (AW 3003, 3.00 mm)",
+    "birim": "Kg",
+    "birimFiyat": 153.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2131",
+    "tanim": "Alüminyum Düz Levha (AW 3105, 0.30 mm)",
+    "birim": "Kg",
+    "birimFiyat": 155.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2132",
+    "tanim": "Alüminyum Düz Levha (AW 3105, 0.50 mm)",
+    "birim": "Kg",
+    "birimFiyat": 154.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2133",
+    "tanim": "Alüminyum Düz Levha (AW 3105, 0.70 mm)",
+    "birim": "Kg",
+    "birimFiyat": 154.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2134",
+    "tanim": "Alüminyum Düz Levha (AW 3105, 3.00 mm)",
+    "birim": "Kg",
+    "birimFiyat": 153.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2141",
+    "tanim": "Alüminyum Düz Levha (AW 5005, 0.30 mm)",
+    "birim": "Kg",
+    "birimFiyat": 155.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2142",
+    "tanim": "Alüminyum Düz Levha (AW 5005, 0.50 mm)",
+    "birim": "Kg",
+    "birimFiyat": 154.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2143",
+    "tanim": "Alüminyum Düz Levha (AW 5005, 0.70 mm)",
+    "birim": "Kg",
+    "birimFiyat": 154.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2144",
+    "tanim": "Alüminyum Düz Levha (AW 5005, 3.00 mm)",
+    "birim": "Kg",
+    "birimFiyat": 153.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2201",
+    "tanim": "Boyalı Alüminyum Levha (AW 1100, 0.30 mm)",
+    "birim": "Kg",
+    "birimFiyat": 190.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2202",
+    "tanim": "Boyalı Alüminyum Levha (AW 1100, 0.50 mm)",
+    "birim": "Kg",
+    "birimFiyat": 189.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2203",
+    "tanim": "Boyalı Alüminyum Levha (AW 1100, 0.70 mm)",
+    "birim": "Kg",
+    "birimFiyat": 189.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2204",
+    "tanim": "Boyalı Alüminyum Levha (AW 1100, 3.00 mm)",
+    "birim": "Kg",
+    "birimFiyat": 189.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2211",
+    "tanim": "Boyalı Alüminyum Levha (AW 1050A, 0.30 mm)",
+    "birim": "Kg",
+    "birimFiyat": 190.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2212",
+    "tanim": "Boyalı Alüminyum Levha (AW 1050A, 0.50 mm)",
+    "birim": "Kg",
+    "birimFiyat": 189.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2213",
+    "tanim": "Boyalı Alüminyum Levha (AW 1050A, 0.70 mm)",
+    "birim": "Kg",
+    "birimFiyat": 189.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2214",
+    "tanim": "Boyalı Alüminyum Levha (AW 1050A, 3.00 mm)",
+    "birim": "Kg",
+    "birimFiyat": 189.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2221",
+    "tanim": "Boyalı Alüminyum Levha (AW 3003, 0.30 mm)",
+    "birim": "Kg",
+    "birimFiyat": 197.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2222",
+    "tanim": "Boyalı Alüminyum Levha (AW 3003, 0.50 mm)",
+    "birim": "Kg",
+    "birimFiyat": 190.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2223",
+    "tanim": "Boyalı Alüminyum Levha (AW 3003, 0.70 mm)",
+    "birim": "Kg",
+    "birimFiyat": 190.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2224",
+    "tanim": "Boyalı Alüminyum Levha (AW 3003, 3.00 mm)",
+    "birim": "Kg",
+    "birimFiyat": 190.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2231",
+    "tanim": "Boyalı Alüminyum Levha (AW 3105, 0.30 mm)",
+    "birim": "Kg",
+    "birimFiyat": 197.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2232",
+    "tanim": "Boyalı Alüminyum Levha (AW 3105, 0.50 mm)",
+    "birim": "Kg",
+    "birimFiyat": 190.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2233",
+    "tanim": "Boyalı Alüminyum Levha (AW 3105, 0.70 mm)",
+    "birim": "Kg",
+    "birimFiyat": 190.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2234",
+    "tanim": "Boyalı Alüminyum Levha (AW 3105, 3.00 mm)",
+    "birim": "Kg",
+    "birimFiyat": 190.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2241",
+    "tanim": "Boyalı Alüminyum Levha (AW 5005, 0.30 mm)",
+    "birim": "Kg",
+    "birimFiyat": 197.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2242",
+    "tanim": "Boyalı Alüminyum Levha (AW 5005, 0.50 mm)",
+    "birim": "Kg",
+    "birimFiyat": 197.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2243",
+    "tanim": "Boyalı Alüminyum Levha (AW 5005, 0.70 mm)",
+    "birim": "Kg",
+    "birimFiyat": 190.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2244",
+    "tanim": "Boyalı Alüminyum Levha (AW 5005, 3.00 mm)",
+    "birim": "Kg",
+    "birimFiyat": 189.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2301",
+    "tanim": "Trapezoidal Alüminyum Levha (AW 3003)",
+    "birim": "Kg",
+    "birimFiyat": 172.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2302",
+    "tanim": "Trapezoidal Alüminyum Levha (AW 3105)",
+    "birim": "Kg",
+    "birimFiyat": 172.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2303",
+    "tanim": "Trapezoidal Alüminyum Levha (AW 5005)",
+    "birim": "Kg",
+    "birimFiyat": 192.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2701",
+    "tanim": "120 mm Kapak Profili (min 1.3 mm)",
+    "birim": "m",
+    "birimFiyat": 116.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2702",
+    "tanim": "150 mm Kapak Profili (min 1.5 mm)",
+    "birim": "m",
+    "birimFiyat": 160.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2703",
+    "tanim": "200 mm Kapak Profili (min 1.7 mm)",
+    "birim": "m",
+    "birimFiyat": 242.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2704",
+    "tanim": "250 mm Kapak Profili (min 1.7 mm)",
+    "birim": "m",
+    "birimFiyat": 286.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2711",
+    "tanim": "120 mm Kapak Profili (Zemin, min 2.2 mm)",
+    "birim": "m",
+    "birimFiyat": 169.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2712",
+    "tanim": "150 mm Kapak Profili (Zemin, min 2.4 mm)",
+    "birim": "m",
+    "birimFiyat": 225.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2713",
+    "tanim": "200 mm Kapak Profili (Zemin, min 2.6 mm)",
+    "birim": "m",
+    "birimFiyat": 346.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2714",
+    "tanim": "250 mm Kapak Profili (Zemin, min 2.6 mm)",
+    "birim": "m",
+    "birimFiyat": 397.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2721",
+    "tanim": "Kaplama Altı Dilatasyon Profili (50 mm)",
+    "birim": "m",
+    "birimFiyat": 247.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2722",
+    "tanim": "Kaplama Altı Dilatasyon Profili (80 mm)",
+    "birim": "m",
+    "birimFiyat": 385.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2723",
+    "tanim": "Kaplama Altı Dilatasyon Profili (100 mm)",
+    "birim": "m",
+    "birimFiyat": 465.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2731",
+    "tanim": "Güçlendirilmiş Dilatasyon Profili (50 mm)",
+    "birim": "m",
+    "birimFiyat": 499.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2732",
+    "tanim": "Güçlendirilmiş Dilatasyon Profili (80 mm)",
+    "birim": "m",
+    "birimFiyat": 669.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2733",
+    "tanim": "Güçlendirilmiş Dilatasyon Profili (100 mm)",
+    "birim": "m",
+    "birimFiyat": 837.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2734",
+    "tanim": "Güçlendirilmiş Dilatasyon Profili (150 mm)",
+    "birim": "m",
+    "birimFiyat": 1269.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2741",
+    "tanim": "Duvar/Tavan Dilatasyon Profili (50 mm)",
+    "birim": "m",
+    "birimFiyat": 132.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2742",
+    "tanim": "Duvar/Tavan Dilatasyon Profili (80 mm)",
+    "birim": "m",
+    "birimFiyat": 156.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2743",
+    "tanim": "Duvar/Tavan Dilatasyon Profili (100 mm)",
+    "birim": "m",
+    "birimFiyat": 185.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2751",
+    "tanim": "Kaplama Üstü Zemin Dilatasyon Profili (50 mm)",
+    "birim": "m",
+    "birimFiyat": 225.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2752",
+    "tanim": "Kaplama Üstü Zemin Dilatasyon Profili (80 mm)",
+    "birim": "m",
+    "birimFiyat": 314.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2753",
+    "tanim": "Kaplama Üstü Zemin Dilatasyon Profili (100 mm)",
+    "birim": "m",
+    "birimFiyat": 383.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2761",
+    "tanim": "Güçlendirilmiş Üst Dilatasyon Profili (50 mm)",
+    "birim": "m",
+    "birimFiyat": 282.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2762",
+    "tanim": "Güçlendirilmiş Üst Dilatasyon Profili (80 mm)",
+    "birim": "m",
+    "birimFiyat": 397.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2763",
+    "tanim": "Güçlendirilmiş Üst Dilatasyon Profili (100 mm)",
+    "birim": "m",
+    "birimFiyat": 502.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2764",
+    "tanim": "Güçlendirilmiş Üst Dilatasyon Profili (150 mm)",
+    "birim": "m",
+    "birimFiyat": 760.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2791",
+    "tanim": "Butil bant (3x10 mm)",
+    "birim": "m",
+    "birimFiyat": 14.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2792",
+    "tanim": "Dilatasyon yalıtım bandı (30 cm)",
+    "birim": "m",
+    "birimFiyat": 137.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2793",
+    "tanim": "Dilatasyon yalıtım bandı (40 cm)",
+    "birim": "m",
+    "birimFiyat": 180.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2801",
+    "tanim": "Çinko levha",
+    "birim": "Kg",
+    "birimFiyat": 113.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2809",
+    "tanim": "Çinko (Külçe)",
+    "birim": "Kg",
+    "birimFiyat": 96.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2811",
+    "tanim": "Kurşun levha (min. %99,98 saf)",
+    "birim": "Kg",
+    "birimFiyat": 97.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2812",
+    "tanim": "Kurşun levha (%99,80 saflık)",
+    "birim": "Kg",
+    "birimFiyat": 91.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2819",
+    "tanim": "Kurşun (Külçe)",
+    "birim": "Kg",
+    "birimFiyat": 82.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2851",
+    "tanim": "Sfero döküm (GJS 400)",
+    "birim": "Kg",
+    "birimFiyat": 40.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2852",
+    "tanim": "Sfero döküm (GJS 500)",
+    "birim": "Kg",
+    "birimFiyat": 43.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2853",
+    "tanim": "Bakır profil ve levhalar",
+    "birim": "Kg",
+    "birimFiyat": 370.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2854",
+    "tanim": "Blister bakır",
+    "birim": "Kg",
+    "birimFiyat": 311.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2861",
+    "tanim": "Pirinç boru",
+    "birim": "Kg",
+    "birimFiyat": 259.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2862",
+    "tanim": "Pirinç lama",
+    "birim": "Kg",
+    "birimFiyat": 259.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2951",
+    "tanim": "Yüksek evsaflı çelik mesnet",
+    "birim": "Kg",
+    "birimFiyat": 49.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.2952",
+    "tanim": "İçi çelik takviyeli kauçuk köprü mesneti",
+    "birim": "cm³",
+    "birimFiyat": 0.25,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3001",
+    "tanim": "Tavan C 60 profili (0.50 mm)",
+    "birim": "m",
+    "birimFiyat": 17.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3002",
+    "tanim": "Tavan C 60 profili (0.60 mm)",
+    "birim": "m",
+    "birimFiyat": 23.4,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3003",
+    "tanim": "Tavan U 28 profili (0.50 mm)",
+    "birim": "m",
+    "birimFiyat": 11.7,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3004",
+    "tanim": "Tavan U 28 profili (0.60 mm)",
+    "birim": "m",
+    "birimFiyat": 13.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3005",
+    "tanim": "Duvar C 50 profili (0.50 mm)",
+    "birim": "m",
+    "birimFiyat": 24.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3006",
+    "tanim": "Duvar C 50 profili (0.60 mm)",
+    "birim": "m",
+    "birimFiyat": 30.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3007",
+    "tanim": "Duvar C 75 profili (0.50 mm)",
+    "birim": "m",
+    "birimFiyat": 29.4,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3008",
+    "tanim": "Duvar C 75 profili (0.60 mm)",
+    "birim": "m",
+    "birimFiyat": 34.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3009",
+    "tanim": "Duvar C 100 profili (0.50 mm)",
+    "birim": "m",
+    "birimFiyat": 33.4,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3010",
+    "tanim": "Duvar C 100 profili (0.60 mm)",
+    "birim": "m",
+    "birimFiyat": 39.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3011",
+    "tanim": "Duvar U 50 profili (0.50 mm)",
+    "birim": "m",
+    "birimFiyat": 17.4,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3012",
+    "tanim": "Duvar U 50 profili (0.60 mm)",
+    "birim": "m",
+    "birimFiyat": 24.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3013",
+    "tanim": "Duvar U 75 profili (0.50 mm)",
+    "birim": "m",
+    "birimFiyat": 21.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3014",
+    "tanim": "Duvar U 75 profili (0.60 mm)",
+    "birim": "m",
+    "birimFiyat": 29.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3015",
+    "tanim": "Duvar U 100 profili (0.50 mm)",
+    "birim": "m",
+    "birimFiyat": 26.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3016",
+    "tanim": "Duvar U 100 profili (0.60 mm)",
+    "birim": "m",
+    "birimFiyat": 34.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3001",
+    "tanim": "Tavan U 28 profili (0.55 mm)",
+    "birim": "m",
+    "birimFiyat": 11.7,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3002",
+    "tanim": "Tavan C 60 profili (0.55 mm)",
+    "birim": "m",
+    "birimFiyat": 20.3,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3003",
+    "tanim": "Duvar C 50 profili (0.55 mm)",
+    "birim": "m",
+    "birimFiyat": 25.75,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3004",
+    "tanim": "Duvar C 50 profili (0.90 mm)",
+    "birim": "m",
+    "birimFiyat": 39.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3005",
+    "tanim": "Duvar C 75 profili (0.55 mm)",
+    "birim": "m",
+    "birimFiyat": 29.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3006",
+    "tanim": "Duvar C 75 profili (0.90 mm)",
+    "birim": "m",
+    "birimFiyat": 46.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3007",
+    "tanim": "Duvar C 100 profili (0.55 mm)",
+    "birim": "m",
+    "birimFiyat": 33.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3008",
+    "tanim": "Duvar C 100 profili (0.90 mm)",
+    "birim": "m",
+    "birimFiyat": 60.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3009",
+    "tanim": "Duvar C 125 profili (0.50 mm)",
+    "birim": "m",
+    "birimFiyat": 37.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3010",
+    "tanim": "Duvar C 125 profili (0.60 mm)",
+    "birim": "m",
+    "birimFiyat": 41.4,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3011",
+    "tanim": "Duvar C 125 profili (0.90 mm)",
+    "birim": "m",
+    "birimFiyat": 65.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3012",
+    "tanim": "Duvar C 150 profili (0.50 mm)",
+    "birim": "m",
+    "birimFiyat": 39.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3013",
+    "tanim": "Duvar C 150 profili (0.60 mm)",
+    "birim": "m",
+    "birimFiyat": 45.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3014",
+    "tanim": "Duvar C 150 profili (0.90 mm)",
+    "birim": "m",
+    "birimFiyat": 70.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3015",
+    "tanim": "Duvar U 125 profili (0.50 mm)",
+    "birim": "m",
+    "birimFiyat": 31.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3016",
+    "tanim": "Duvar U 125 profili (0.60 mm)",
+    "birim": "m",
+    "birimFiyat": 36.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3017",
+    "tanim": "Duvar U 125 profili (0.90 mm)",
+    "birim": "m",
+    "birimFiyat": 55.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3018",
+    "tanim": "Duvar U 150 profili (0.50 mm)",
+    "birim": "m",
+    "birimFiyat": 34.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3019",
+    "tanim": "Duvar U 150 profili (0.60 mm)",
+    "birim": "m",
+    "birimFiyat": 41.4,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3020",
+    "tanim": "Duvar U 150 profili (0.90 mm)",
+    "birim": "m",
+    "birimFiyat": 63.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.202.3001",
+    "tanim": "Duvar U 50 profili (2 mm kalınlıkta delikli)",
+    "birim": "m",
+    "birimFiyat": 123.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.202.3002",
+    "tanim": "Duvar U 75 profili (2 mm kalınlıkta delikli)",
+    "birim": "m",
+    "birimFiyat": 144.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.202.3003",
+    "tanim": "Duvar U 100 profili (2 mm kalınlıkta delikli)",
+    "birim": "m",
+    "birimFiyat": 168.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3021",
+    "tanim": "Delikli köşe profili (0.35 mm)",
+    "birim": "m",
+    "birimFiyat": 5.75,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3022",
+    "tanim": "Delikli köşe profili (0.40 mm)",
+    "birim": "m",
+    "birimFiyat": 6.72,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3023",
+    "tanim": "Klips 7.5 cm (0.8 mm)",
+    "birim": "Adet",
+    "birimFiyat": 1.25,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3024",
+    "tanim": "Askı maşası \"T\" tipi (11.5 cm)",
+    "birim": "Adet",
+    "birimFiyat": 5.04,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3025",
+    "tanim": "Askı maşası \"C\" tipi (11.5 cm)",
+    "birim": "Adet",
+    "birimFiyat": 6.72,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3026",
+    "tanim": "Ekleme parçası (9 cm)",
+    "birim": "Adet",
+    "birimFiyat": 2.76,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3027",
+    "tanim": "Agraf 7,5 cm (1 mm)",
+    "birim": "Adet",
+    "birimFiyat": 2.76,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3028",
+    "tanim": "Agraf 12 cm (1 mm)",
+    "birim": "Adet",
+    "birimFiyat": 4.14,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3029",
+    "tanim": "Agraf 20 cm (1 mm)",
+    "birim": "Adet",
+    "birimFiyat": 6.36,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3030",
+    "tanim": "Agraf vidası (500 adetlik kutu)",
+    "birim": "Kutu",
+    "birimFiyat": 78.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3031",
+    "tanim": "Derz bandı (Cam elyafı, 5 cm)",
+    "birim": "m",
+    "birimFiyat": 0.78,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3032",
+    "tanim": "Yalıtım bandı (3 mm PE, 5 cm)",
+    "birim": "m",
+    "birimFiyat": 1.25,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3033",
+    "tanim": "Yalıtım bandı (3 mm PE, 7,5 cm)",
+    "birim": "m",
+    "birimFiyat": 2.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3034",
+    "tanim": "Yalıtım bandı (3 mm PE, 10 cm)",
+    "birim": "m",
+    "birimFiyat": 3.35,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3021",
+    "tanim": "U-L 50 bağlantı elemanı (2 mm)",
+    "birim": "Adet",
+    "birimFiyat": 18.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3022",
+    "tanim": "U-L 75 bağlantı elemanı (2 mm)",
+    "birim": "Adet",
+    "birimFiyat": 24.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3023",
+    "tanim": "U-L 100 bağlantı elemanı (2 mm)",
+    "birim": "Adet",
+    "birimFiyat": 27.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3024",
+    "tanim": "Somun cıvata (U-L bağlantı için)",
+    "birim": "Adet",
+    "birimFiyat": 2.11,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3025",
+    "tanim": "L 50 bağlantı elemanı (2 mm, Z275)",
+    "birim": "Adet",
+    "birimFiyat": 12.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3026",
+    "tanim": "L 75 bağlantı elemanı (2 mm, Z275)",
+    "birim": "Adet",
+    "birimFiyat": 13.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3027",
+    "tanim": "L 100 bağlantı elemanı (2 mm, Z275)",
+    "birim": "Adet",
+    "birimFiyat": 16.1,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3028",
+    "tanim": "L 125 bağlantı elemanı (2 mm, Z275)",
+    "birim": "Adet",
+    "birimFiyat": 18.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3029",
+    "tanim": "T profili (0.90 mm, Z275)",
+    "birim": "m",
+    "birimFiyat": 41.4,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3030",
+    "tanim": "Alüminyum delikli köşe profili (0.35 mm)",
+    "birim": "m",
+    "birimFiyat": 4.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3031",
+    "tanim": "Çiftli Klips (60x27 mm, 1 mm)",
+    "birim": "Adet",
+    "birimFiyat": 1.65,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3032",
+    "tanim": "Açılı ekleme parçası (9 cm, 0.6 mm)",
+    "birim": "Adet",
+    "birimFiyat": 2.27,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3033",
+    "tanim": "Derz bandı (Cam elyafı, 5 cm)",
+    "birim": "m",
+    "birimFiyat": 0.4,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3034",
+    "tanim": "Derz bandı (Cam elyafı, yapışkanlı, 10 cm)",
+    "birim": "m",
+    "birimFiyat": 0.78,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.201.3035",
+    "tanim": "Derz bandı (Kağıttan, 5 cm)",
+    "birim": "m",
+    "birimFiyat": 0.78,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3051",
+    "tanim": "Gizli taşıyıcı profil (Clip-in, 0.50 mm)",
+    "birim": "m",
+    "birimFiyat": 12.9,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3052",
+    "tanim": "Gizli taşıyıcı profil (Clip-in, 0.60 mm)",
+    "birim": "m",
+    "birimFiyat": 13.75,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3053",
+    "tanim": "Alüminyum kenar C profili (1.00 mm)",
+    "birim": "m",
+    "birimFiyat": 21.85,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3054",
+    "tanim": "Sac kenar C profili (0.50 mm)",
+    "birim": "m",
+    "birimFiyat": 16.7,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3055",
+    "tanim": "Taşıyıcı ek parçası (0.50 mm)",
+    "birim": "Adet",
+    "birimFiyat": 2.1,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3056",
+    "tanim": "Birleşim klipsi (Yay çeliği)",
+    "birim": "Adet",
+    "birimFiyat": 2.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3057",
+    "tanim": "Bastırma klipsi (Yay çeliği)",
+    "birim": "Adet",
+    "birimFiyat": 2.35,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3058",
+    "tanim": "Lamel asma tavan taşıyıcı (1 cm derzli)",
+    "birim": "m",
+    "birimFiyat": 17.95,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3059",
+    "tanim": "Lamel asma tavan taşıyıcı (1,5 cm derzli)",
+    "birim": "m",
+    "birimFiyat": 21.85,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3060",
+    "tanim": "Lamel asma tavan taşıyıcı (2 cm derzli)",
+    "birim": "m",
+    "birimFiyat": 21.85,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3061",
+    "tanim": "Lamel asma tavan taşıyıcı (Kendinden derzli)",
+    "birim": "m",
+    "birimFiyat": 21.85,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3062",
+    "tanim": "Alüminyum derz çıtası (15 mm)",
+    "birim": "m",
+    "birimFiyat": 11.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3063",
+    "tanim": "Alüminyum derz çıtası (20 mm)",
+    "birim": "m",
+    "birimFiyat": 11.4,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3064",
+    "tanim": "Kenar L profili (fırın boyalı, 0.50 mm)",
+    "birim": "m",
+    "birimFiyat": 11.4,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3065",
+    "tanim": "Kenar U profili (fırın boyalı, 0.50 mm)",
+    "birim": "m",
+    "birimFiyat": 16.4,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3071",
+    "tanim": "24 mm Ana Taşıyıcı T Profil (h=38 mm, 0.40 mm)",
+    "birim": "m",
+    "birimFiyat": 13.15,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3072",
+    "tanim": "24 mm Ana Taşıyıcı T Profil (h=38 mm, 0.30 mm)",
+    "birim": "m",
+    "birimFiyat": 10.9,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3073",
+    "tanim": "24 mm Ana Taşıyıcı T Profil (Korozyona day., 0.30 mm)",
+    "birim": "m",
+    "birimFiyat": 20.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3074",
+    "tanim": "24 mm Ana Taşıyıcı T Profil (Korozyona day., 0.40 mm)",
+    "birim": "m",
+    "birimFiyat": 22.45,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3081",
+    "tanim": "35 mm Ana Taşıyıcı T Profil (h=38 mm, 0.30 mm)",
+    "birim": "m",
+    "birimFiyat": 32.45,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3091",
+    "tanim": "24 mm Ara Taşıyıcı T Profil (h=30 mm, 0.40 mm)",
+    "birim": "m",
+    "birimFiyat": 19.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3092",
+    "tanim": "24 mm Ara Taşıyıcı T Profil (h=30-32 mm, 0.30 mm)",
+    "birim": "m",
+    "birimFiyat": 14.85,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3093",
+    "tanim": "24 mm Ara Taşıyıcı T Profil (h=25 mm, 0.30 mm)",
+    "birim": "m",
+    "birimFiyat": 16.3,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3094",
+    "tanim": "24 mm Ara Taşıyıcı T Profil (Korozyon day., 0.30 mm)",
+    "birim": "m",
+    "birimFiyat": 14.85,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3095",
+    "tanim": "24 mm Ara Taşıyıcı T Profil (Korozyon day., 0.40 mm)",
+    "birim": "m",
+    "birimFiyat": 20.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3096",
+    "tanim": "24 mm Ara Taşıyıcı T Profil (Korozyon day., 0.30 mm)",
+    "birim": "m",
+    "birimFiyat": 16.85,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3097",
+    "tanim": "24 mm Ara Taşıyıcı T Profil (Korozyon day., 0.40 mm)",
+    "birim": "m",
+    "birimFiyat": 19.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3101",
+    "tanim": "35 mm Ara Taşıyıcı T Profil (h=38 mm, 0.30 mm)",
+    "birim": "m",
+    "birimFiyat": 30.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3111",
+    "tanim": "15 mm Ana Taşıyıcı T Profil (h=38 mm, 0.40 mm)",
+    "birim": "m",
+    "birimFiyat": 16.3,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3112",
+    "tanim": "15 mm Ana Taşıyıcı T Profil (h=32 mm, 0.30 mm)",
+    "birim": "m",
+    "birimFiyat": 14.85,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3113",
+    "tanim": "15 mm Ana Taşıyıcı T Profil (h=32 mm, 0.40 mm)",
+    "birim": "m",
+    "birimFiyat": 14.85,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3114",
+    "tanim": "15 mm Ana Taşıyıcı T Profil (Kanallı, 0.30 mm)",
+    "birim": "m",
+    "birimFiyat": 36.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3115",
+    "tanim": "15 mm Ana Taşıyıcı T Profil (h=45 mm, 0.40 mm)",
+    "birim": "m",
+    "birimFiyat": 36.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3121",
+    "tanim": "15 mm Ara Taşıyıcı T Profil (h=30 mm, 0.40 mm)",
+    "birim": "m",
+    "birimFiyat": 17.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3122",
+    "tanim": "15 mm Ara Taşıyıcı T Profil (Klips başlı, 0.30 mm)",
+    "birim": "m",
+    "birimFiyat": 17.05,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3123",
+    "tanim": "15 mm Ara Taşıyıcı T Profil (Kanallı, 0.30 mm)",
+    "birim": "m",
+    "birimFiyat": 38.95,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3124",
+    "tanim": "15 mm Ara Taşıyıcı T Profil (Kanallı, 0.40 mm)",
+    "birim": "m",
+    "birimFiyat": 41.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3125",
+    "tanim": "Kenar L profili (0,50 mm)",
+    "birim": "m",
+    "birimFiyat": 9.45,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3126",
+    "tanim": "Kenar L profili (Korozyon dayanımlı, 0.50 mm)",
+    "birim": "m",
+    "birimFiyat": 18.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3127",
+    "tanim": "Kenar Z profili (0.40-0.60 mm)",
+    "birim": "m",
+    "birimFiyat": 13.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3128",
+    "tanim": "Kenar Z profili (0.50-0.70 mm)",
+    "birim": "m",
+    "birimFiyat": 20.35,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3129",
+    "tanim": "Askı çubuğu (40 cm)",
+    "birim": "Adet",
+    "birimFiyat": 1.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3130",
+    "tanim": "Askı çubuğu (50 cm)",
+    "birim": "Adet",
+    "birimFiyat": 1.65,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3131",
+    "tanim": "Askı çubuğu (60 cm)",
+    "birim": "Adet",
+    "birimFiyat": 1.71,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3132",
+    "tanim": "Askı çubuğu (80 cm)",
+    "birim": "Adet",
+    "birimFiyat": 2.15,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3133",
+    "tanim": "Askı çubuğu (100 cm)",
+    "birim": "Adet",
+    "birimFiyat": 2.42,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3134",
+    "tanim": "Askı çubuğu (120 cm)",
+    "birim": "Adet",
+    "birimFiyat": 3.14,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3135",
+    "tanim": "Askı çubuğu (120 cm üstü)",
+    "birim": "Adet",
+    "birimFiyat": 3.58,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3136",
+    "tanim": "Çiftli yay (0.60 mm)",
+    "birim": "Adet",
+    "birimFiyat": 2.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3137",
+    "tanim": "Çelik dübel (6x45 vida dahil)",
+    "birim": "Adet",
+    "birimFiyat": 1.93,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3141",
+    "tanim": "Alçı sıva köşe profili (min 0.40 mm)",
+    "birim": "m",
+    "birimFiyat": 4.55,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3601",
+    "tanim": "Kare/Dikdörtgen çelik borular (Ortalama kg)",
+    "birim": "Kg",
+    "birimFiyat": 30.48,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3602",
+    "tanim": "10X10X1.0 mm çelik boru",
+    "birim": "m",
+    "birimFiyat": 11.15,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3603",
+    "tanim": "15X15X1.0 mm çelik boru",
+    "birim": "m",
+    "birimFiyat": 12.95,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3604",
+    "tanim": "20X20X1.0 mm çelik boru",
+    "birim": "m",
+    "birimFiyat": 17.3,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3605",
+    "tanim": "25X25X1.0 mm çelik boru",
+    "birim": "m",
+    "birimFiyat": 22.05,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3606",
+    "tanim": "25X25X1.2 mm çelik boru",
+    "birim": "m",
+    "birimFiyat": 25.95,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3607",
+    "tanim": "30X30X1.0 mm çelik boru",
+    "birim": "m",
+    "birimFiyat": 26.3,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3608",
+    "tanim": "30X30X1.2 mm çelik boru",
+    "birim": "m",
+    "birimFiyat": 30.65,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3609",
+    "tanim": "30X30X1.5 mm çelik boru",
+    "birim": "m",
+    "birimFiyat": 35.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3610",
+    "tanim": "40X40X1.5 mm çelik boru",
+    "birim": "m",
+    "birimFiyat": 47.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3611",
+    "tanim": "40X40X2.0 mm çelik boru",
+    "birim": "m",
+    "birimFiyat": 55.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3612",
+    "tanim": "50X50X2.0 mm çelik boru",
+    "birim": "m",
+    "birimFiyat": 70.3,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3613",
+    "tanim": "10X20X1.0 mm çelik boru",
+    "birim": "m",
+    "birimFiyat": 13.15,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3614",
+    "tanim": "10X30X1.0 mm çelik boru",
+    "birim": "m",
+    "birimFiyat": 17.15,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3615",
+    "tanim": "15X25X1.0 mm çelik boru",
+    "birim": "m",
+    "birimFiyat": 17.15,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3616",
+    "tanim": "20X30X1.0 mm çelik boru",
+    "birim": "m",
+    "birimFiyat": 21.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3617",
+    "tanim": "20X40X1.0 mm çelik boru",
+    "birim": "m",
+    "birimFiyat": 26.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3618",
+    "tanim": "20X40X1.5 mm çelik boru",
+    "birim": "m",
+    "birimFiyat": 35.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3619",
+    "tanim": "30X40X1.5 mm çelik boru",
+    "birim": "m",
+    "birimFiyat": 41.35,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3620",
+    "tanim": "30X50X1.5 mm çelik boru",
+    "birim": "m",
+    "birimFiyat": 47.7,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3621",
+    "tanim": "30X50X2.0 mm çelik boru",
+    "birim": "m",
+    "birimFiyat": 55.65,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3622",
+    "tanim": "40X60X2.0 mm çelik boru",
+    "birim": "m",
+    "birimFiyat": 69.95,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3701",
+    "tanim": "Öngerme teli (Düz, Ø 4-12 mm)",
+    "birim": "Kg",
+    "birimFiyat": 27.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3702",
+    "tanim": "Öngerme teli (Çentikli, Ø 4-12 mm)",
+    "birim": "Kg",
+    "birimFiyat": 28.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3703",
+    "tanim": "Öngerme halatı (Ø 0,5 inç)",
+    "birim": "Kg",
+    "birimFiyat": 30.75,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3704",
+    "tanim": "Öngerme halatı (Ø 0,6 inç ve üzeri)",
+    "birim": "Kg",
+    "birimFiyat": 30.75,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3801",
+    "tanim": "Paslanmaz çelik U profil (35/35/3 mm)",
+    "birim": "m",
+    "birimFiyat": 222.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3802",
+    "tanim": "Paslanmaz çelik U profil (40/30/3 mm)",
+    "birim": "m",
+    "birimFiyat": 205.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3803",
+    "tanim": "Paslanmaz çelik U profil (40/40/3 mm)",
+    "birim": "m",
+    "birimFiyat": 256.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3804",
+    "tanim": "Paslanmaz çelik U profil (50/50/3 mm)",
+    "birim": "m",
+    "birimFiyat": 327.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3805",
+    "tanim": "Paslanmaz çelik U profil (40/40/4 mm)",
+    "birim": "m",
+    "birimFiyat": 332.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3806",
+    "tanim": "Paslanmaz çelik U profil (50/50/4 mm)",
+    "birim": "m",
+    "birimFiyat": 417.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3807",
+    "tanim": "Paslanmaz çelik U profil (50/50/5 mm)",
+    "birim": "m",
+    "birimFiyat": 501.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3821",
+    "tanim": "Galvaniz çelik U profil (35/35/3 mm)",
+    "birim": "m",
+    "birimFiyat": 65.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3822",
+    "tanim": "Galvaniz çelik U profil (40/30/3 mm)",
+    "birim": "m",
+    "birimFiyat": 62.9,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3823",
+    "tanim": "Galvaniz çelik U profil (40/40/3 mm)",
+    "birim": "m",
+    "birimFiyat": 73.7,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3824",
+    "tanim": "Galvaniz çelik U profil (50/50/3 mm)",
+    "birim": "m",
+    "birimFiyat": 95.7,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3825",
+    "tanim": "Galvaniz çelik U profil (40/40/4 mm)",
+    "birim": "m",
+    "birimFiyat": 95.7,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3826",
+    "tanim": "Galvaniz çelik U profil (50/50/4 mm)",
+    "birim": "m",
+    "birimFiyat": 121.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3827",
+    "tanim": "Galvaniz çelik U profil (50/50/5 mm)",
+    "birim": "m",
+    "birimFiyat": 151.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3841",
+    "tanim": "Paslanmaz çelik L profil (30/30/3 mm)",
+    "birim": "m",
+    "birimFiyat": 126.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3842",
+    "tanim": "Paslanmaz çelik L profil (40/40/3 mm)",
+    "birim": "m",
+    "birimFiyat": 168.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3843",
+    "tanim": "Paslanmaz çelik L profil (50/50/3 mm)",
+    "birim": "m",
+    "birimFiyat": 247.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3844",
+    "tanim": "Paslanmaz çelik L profil (40/40/4 mm)",
+    "birim": "m",
+    "birimFiyat": 230.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3845",
+    "tanim": "Paslanmaz çelik L profil (50/50/4 mm)",
+    "birim": "m",
+    "birimFiyat": 290.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3846",
+    "tanim": "Paslanmaz çelik L profil (50/50/5 mm)",
+    "birim": "m",
+    "birimFiyat": 360.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3861",
+    "tanim": "Galvaniz çelik L profil (30/30/3 mm)",
+    "birim": "m",
+    "birimFiyat": 39.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3862",
+    "tanim": "Galvaniz çelik L profil (40/40/3 mm)",
+    "birim": "m",
+    "birimFiyat": 52.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3863",
+    "tanim": "Galvaniz çelik L profil (50/50/3 mm)",
+    "birim": "m",
+    "birimFiyat": 72.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3864",
+    "tanim": "Galvaniz çelik L profil (40/40/4 mm)",
+    "birim": "m",
+    "birimFiyat": 66.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3865",
+    "tanim": "Galvaniz çelik L profil (50/50/4 mm)",
+    "birim": "m",
+    "birimFiyat": 82.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3866",
+    "tanim": "Galvaniz çelik L profil (50/50/5 mm)",
+    "birim": "m",
+    "birimFiyat": 99.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3881",
+    "tanim": "Paslanmaz L konsol (50/60x120x3 mm)",
+    "birim": "Adet",
+    "birimFiyat": 33.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3882",
+    "tanim": "Paslanmaz L konsol (50/80x120x4 mm)",
+    "birim": "Adet",
+    "birimFiyat": 52.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3883",
+    "tanim": "Paslanmaz L konsol (50/100x120x4 mm)",
+    "birim": "Adet",
+    "birimFiyat": 60.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3884",
+    "tanim": "Paslanmaz L konsol (60/120x120x5 mm)",
+    "birim": "Adet",
+    "birimFiyat": 88.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3885",
+    "tanim": "Paslanmaz L konsol (60/140x120x5 mm)",
+    "birim": "Adet",
+    "birimFiyat": 96.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3901",
+    "tanim": "Galvaniz L konsol (50/60x120x3 mm)",
+    "birim": "Adet",
+    "birimFiyat": 12.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3902",
+    "tanim": "Galvaniz L konsol (50/80x120x4 mm)",
+    "birim": "Adet",
+    "birimFiyat": 19.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3903",
+    "tanim": "Galvaniz L konsol (50/100x120x4 mm)",
+    "birim": "Adet",
+    "birimFiyat": 22.3,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3904",
+    "tanim": "Galvaniz L konsol (60/120x120x5 mm)",
+    "birim": "Adet",
+    "birimFiyat": 32.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3905",
+    "tanim": "Galvaniz L konsol (60/140x120x5 mm)",
+    "birim": "Adet",
+    "birimFiyat": 36.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3921",
+    "tanim": "Paslanmaz Z ankraj (30x3xY20 mm)",
+    "birim": "Adet",
+    "birimFiyat": 8.25,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3922",
+    "tanim": "Paslanmaz Z ankraj (30x3xY40 mm)",
+    "birim": "Adet",
+    "birimFiyat": 12.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3923",
+    "tanim": "Paslanmaz Z ankraj (30x3xY60 mm)",
+    "birim": "Adet",
+    "birimFiyat": 14.3,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3924",
+    "tanim": "Paslanmaz Z ankraj (30x3xY80 mm)",
+    "birim": "Adet",
+    "birimFiyat": 18.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3925",
+    "tanim": "Paslanmaz Z ankraj (30x3xY100 mm)",
+    "birim": "Adet",
+    "birimFiyat": 20.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3926",
+    "tanim": "Paslanmaz Z ankraj (30x4xY20 mm)",
+    "birim": "Adet",
+    "birimFiyat": 12.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3927",
+    "tanim": "Paslanmaz Z ankraj (30x4xY40 mm)",
+    "birim": "Adet",
+    "birimFiyat": 16.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3928",
+    "tanim": "Paslanmaz Z ankraj (30x4xY60 mm)",
+    "birim": "Adet",
+    "birimFiyat": 18.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3929",
+    "tanim": "Paslanmaz Z ankraj (30x4xY80 mm)",
+    "birim": "Adet",
+    "birimFiyat": 22.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3930",
+    "tanim": "Paslanmaz Z ankraj (30x4xY100 mm)",
+    "birim": "Adet",
+    "birimFiyat": 25.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3931",
+    "tanim": "Paslanmaz Z ankraj (30x5xY20 mm)",
+    "birim": "Adet",
+    "birimFiyat": 15.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3932",
+    "tanim": "Paslanmaz Z ankraj (30x5xY40 mm)",
+    "birim": "Adet",
+    "birimFiyat": 18.7,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3933",
+    "tanim": "Paslanmaz Z ankraj (30x5xY60 mm)",
+    "birim": "Adet",
+    "birimFiyat": 24.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3934",
+    "tanim": "Paslanmaz Z ankraj (30x5xY80 mm)",
+    "birim": "Adet",
+    "birimFiyat": 27.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3935",
+    "tanim": "Paslanmaz Z ankraj (30x5xY100 mm)",
+    "birim": "Adet",
+    "birimFiyat": 32.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3936",
+    "tanim": "Paslanmaz Z ankraj (40x5xY20 mm)",
+    "birim": "Adet",
+    "birimFiyat": 18.7,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3937",
+    "tanim": "Paslanmaz Z ankraj (40x5xY40 mm)",
+    "birim": "Adet",
+    "birimFiyat": 26.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3938",
+    "tanim": "Paslanmaz Z ankraj (40x5xY60 mm)",
+    "birim": "Adet",
+    "birimFiyat": 30.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3939",
+    "tanim": "Paslanmaz Z ankraj (40x5xY80 mm)",
+    "birim": "Adet",
+    "birimFiyat": 35.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3940",
+    "tanim": "Paslanmaz Z ankraj (40x5xY100 mm)",
+    "birim": "Adet",
+    "birimFiyat": 42.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3951",
+    "tanim": "Paslanmaz L ankraj (30x30/30x3 mm)",
+    "birim": "Adet",
+    "birimFiyat": 6.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3952",
+    "tanim": "Paslanmaz L ankraj (30x30/40x3 mm)",
+    "birim": "Adet",
+    "birimFiyat": 7.4,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3953",
+    "tanim": "Paslanmaz L ankraj (30x30/50x3 mm)",
+    "birim": "Adet",
+    "birimFiyat": 7.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3954",
+    "tanim": "Paslanmaz L ankraj (30x40/40x3 mm)",
+    "birim": "Adet",
+    "birimFiyat": 7.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3955",
+    "tanim": "Paslanmaz L ankraj (30x40/50x3 mm)",
+    "birim": "Adet",
+    "birimFiyat": 8.4,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3956",
+    "tanim": "Paslanmaz L ankraj (30x30/30x4 mm)",
+    "birim": "Adet",
+    "birimFiyat": 7.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3957",
+    "tanim": "Paslanmaz L ankraj (30x30/40x4 mm)",
+    "birim": "Adet",
+    "birimFiyat": 8.9,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3958",
+    "tanim": "Paslanmaz L ankraj (30x30/50x4 mm)",
+    "birim": "Adet",
+    "birimFiyat": 9.9,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3959",
+    "tanim": "Paslanmaz L ankraj (30x40/40x4 mm)",
+    "birim": "Adet",
+    "birimFiyat": 9.9,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3971",
+    "tanim": "Paslanmaz harçlı ankraj Lama (18x130x2,5)",
+    "birim": "Adet",
+    "birimFiyat": 6.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3972",
+    "tanim": "Paslanmaz harçlı ankraj Lama (20x100x2,5)",
+    "birim": "Adet",
+    "birimFiyat": 5.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3973",
+    "tanim": "Paslanmaz harçlı ankraj Lama (20x130x2,5)",
+    "birim": "Adet",
+    "birimFiyat": 7.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3974",
+    "tanim": "Paslanmaz harçlı ankraj Lama (20x150x2,5)",
+    "birim": "Adet",
+    "birimFiyat": 7.7,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3975",
+    "tanim": "Paslanmaz harçlı ankraj Lama (20x150x3)",
+    "birim": "Adet",
+    "birimFiyat": 9.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3976",
+    "tanim": "Paslanmaz harçlı ankraj Lama (20x180x3)",
+    "birim": "Adet",
+    "birimFiyat": 10.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3977",
+    "tanim": "Paslanmaz harçlı ankraj Lama (20x200x3)",
+    "birim": "Adet",
+    "birimFiyat": 11.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3991",
+    "tanim": "Paslanmaz harçlı ankraj Çubuk (Ø5x150)",
+    "birim": "Adet",
+    "birimFiyat": 2.7,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3992",
+    "tanim": "Paslanmaz harçlı ankraj Çubuk (Ø6x150)",
+    "birim": "Adet",
+    "birimFiyat": 3.85,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3993",
+    "tanim": "Paslanmaz harçlı ankraj Çubuk (Ø6x200)",
+    "birim": "Adet",
+    "birimFiyat": 5.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.3994",
+    "tanim": "Paslanmaz harçlı ankraj Çubuk (Ø8x150)",
+    "birim": "Adet",
+    "birimFiyat": 6.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4001",
+    "tanim": "Paslanmaz gömlekli dübel (M6x80)",
+    "birim": "Adet",
+    "birimFiyat": 5.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4002",
+    "tanim": "Paslanmaz gömlekli dübel (M6x100)",
+    "birim": "Adet",
+    "birimFiyat": 5.95,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4003",
+    "tanim": "Paslanmaz gömlekli dübel (M8x80)",
+    "birim": "Adet",
+    "birimFiyat": 7.7,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4004",
+    "tanim": "Paslanmaz gömlekli dübel (M8x100)",
+    "birim": "Adet",
+    "birimFiyat": 8.4,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4005",
+    "tanim": "Paslanmaz gömlekli dübel (M10x80)",
+    "birim": "Adet",
+    "birimFiyat": 11.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4006",
+    "tanim": "Paslanmaz gömlekli dübel (M10x100)",
+    "birim": "Adet",
+    "birimFiyat": 12.65,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4007",
+    "tanim": "Paslanmaz gömlekli dübel (M10x120)",
+    "birim": "Adet",
+    "birimFiyat": 14.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4021",
+    "tanim": "Galvaniz gömlekli dübel (M6x80)",
+    "birim": "Adet",
+    "birimFiyat": 2.25,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4022",
+    "tanim": "Galvaniz gömlekli dübel (M6x100)",
+    "birim": "Adet",
+    "birimFiyat": 2.65,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4023",
+    "tanim": "Galvaniz gömlekli dübel (M8x80)",
+    "birim": "Adet",
+    "birimFiyat": 3.2,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4024",
+    "tanim": "Galvaniz gömlekli dübel (M8x100)",
+    "birim": "Adet",
+    "birimFiyat": 3.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4025",
+    "tanim": "Galvaniz gömlekli dübel (M10x80)",
+    "birim": "Adet",
+    "birimFiyat": 4.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4026",
+    "tanim": "Galvaniz gömlekli dübel (M10x100)",
+    "birim": "Adet",
+    "birimFiyat": 4.95,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4027",
+    "tanim": "Galvaniz gömlekli dübel (M10x120)",
+    "birim": "Adet",
+    "birimFiyat": 5.25,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4041",
+    "tanim": "Paslanmaz klipsli dübel (M6x65)",
+    "birim": "Adet",
+    "birimFiyat": 5.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4042",
+    "tanim": "Paslanmaz klipsli dübel (M6x80)",
+    "birim": "Adet",
+    "birimFiyat": 5.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4043",
+    "tanim": "Paslanmaz klipsli dübel (M6x100)",
+    "birim": "Adet",
+    "birimFiyat": 6.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4044",
+    "tanim": "Paslanmaz klipsli dübel (M8x70)",
+    "birim": "Adet",
+    "birimFiyat": 7.55,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4045",
+    "tanim": "Paslanmaz klipsli dübel (M8x80)",
+    "birim": "Adet",
+    "birimFiyat": 7.9,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4046",
+    "tanim": "Paslanmaz klipsli dübel (M8x100)",
+    "birim": "Adet",
+    "birimFiyat": 9.7,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4047",
+    "tanim": "Paslanmaz klipsli dübel (M10x90)",
+    "birim": "Adet",
+    "birimFiyat": 14.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4048",
+    "tanim": "Paslanmaz klipsli dübel (M10x120)",
+    "birim": "Adet",
+    "birimFiyat": 17.6,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4049",
+    "tanim": "Paslanmaz klipsli dübel (M12x110)",
+    "birim": "Adet",
+    "birimFiyat": 23.1,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4050",
+    "tanim": "Paslanmaz klipsli dübel (M12x120)",
+    "birim": "Adet",
+    "birimFiyat": 23.65,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.200.4051",
+    "tanim": "Paslanmaz klipsli dübel (M16x145)",
+    "birim": "Adet",
+    "birimFiyat": 51.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  }
+]
