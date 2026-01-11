@@ -1,4 +1,15 @@
-export const ministryData = [
+import pozlarData from '../pozlar.json';
+
+// Helper to deduce category if not explicitly set (fallback)
+export const inferCategory = (pozNo) => {
+    if (pozNo.startsWith('15')) return 'kaba'; // Most construction items
+    if (pozNo.startsWith('25')) return 'mekanik';
+    if (pozNo.startsWith('35')) return 'elektrik';
+    if (pozNo.startsWith('10')) return 'peyzaj';
+    return 'genel';
+};
+
+const hardcodedData = [
     // KAZI VE HAFRİYAT İŞLERİ
     { pozNo: "15.120.1001", description: "Makine ile yumuşak ve sert toprak kazılması (Serbest kazı)", unit: "m3", unitPrice: 85.50, category: 'kaba' },
     { pozNo: "15.120.1002", description: "Makine ile yumuşak ve sert küskülük kazılması", unit: "m3", unitPrice: 120.75, category: 'kaba' },
@@ -36,11 +47,15 @@ export const ministryData = [
     { pozNo: "15.420.1002", description: "Laminat Parke Kaplama", unit: "m2", unitPrice: 580.00, category: 'ince' }
 ];
 
-// Helper to deduce category if not explicitly set (fallback)
-export const inferCategory = (pozNo) => {
-    if (pozNo.startsWith('15')) return 'kaba'; // Most construction items
-    if (pozNo.startsWith('25')) return 'mekanik';
-    if (pozNo.startsWith('35')) return 'elektrik';
-    if (pozNo.startsWith('10')) return 'peyzaj';
-    return 'genel';
-};
+const mappedPozlar = pozlarData.map(item => ({
+    pozNo: item.pozNo,
+    description: item.tanim,
+    unit: item.birim,
+    unitPrice: item.birimFiyat,
+    category: inferCategory(item.pozNo)
+}));
+
+export const ministryData = [
+    ...hardcodedData,
+    ...mappedPozlar
+];
