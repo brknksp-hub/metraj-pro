@@ -1,0 +1,802 @@
+[
+  {
+    "pozNo": "10.100.1001",
+    "tanim": "Taşcı ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1002",
+    "tanim": "Karo kaplama ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1003",
+    "tanim": "Fayans kaplama ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1004",
+    "tanim": "Seramik kaplama ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1005",
+    "tanim": "Mermer kaplama ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1006",
+    "tanim": "Mermer yonucu ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1007",
+    "tanim": "Mozayikci ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1008",
+    "tanim": "Doğramacı ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1009",
+    "tanim": "Marangoz ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1010",
+    "tanim": "Yalıtımcı ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1011",
+    "tanim": "Lağımcı (Ateşleme ustası)",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1012",
+    "tanim": "Sıvacı ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1013",
+    "tanim": "Duvarcı ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1014",
+    "tanim": "Kaldırımcı ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1015",
+    "tanim": "Betoncu ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1016",
+    "tanim": "Kiremit tipi çatı kaplamacısı",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1017",
+    "tanim": "Dülger ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1018",
+    "tanim": "Sıcak demirci ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1019",
+    "tanim": "Soğuk demirci ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1020",
+    "tanim": "Alçı işleri ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1021",
+    "tanim": "Kaynakçı ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1022",
+    "tanim": "Camcı ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1023",
+    "tanim": "Boyacı ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1024",
+    "tanim": "Badanacı ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1025",
+    "tanim": "Döşemeci ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1026",
+    "tanim": "Tenekeci ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1027",
+    "tanim": "Tornacı ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1028",
+    "tanim": "Muşambacı ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1029",
+    "tanim": "Cilacı ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1030",
+    "tanim": "Buvazör (İksa işleri yapar)",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1031",
+    "tanim": "Bakırcı ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1032",
+    "tanim": "Alüminyum ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1033",
+    "tanim": "Alçı levha ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1034",
+    "tanim": "Alçı blok ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1035",
+    "tanim": "İskele Kurulum Elemanı",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1036",
+    "tanim": "Panel Çatı Kaplamacısı",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1037",
+    "tanim": "Beton Pompa Operatörü",
+    "birim": "Sa",
+    "birimFiyat": 300.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1038",
+    "tanim": "Alçı levha usta yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 185.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1039",
+    "tanim": "Mozayikçi usta yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 185.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1040",
+    "tanim": "Alçı blok usta yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 185.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1041",
+    "tanim": "Marangoz usta yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 185.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1042",
+    "tanim": "Yalıtımcı usta yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 185.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1043",
+    "tanim": "Alçı işleri usta yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 185.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1044",
+    "tanim": "Sıvacı usta yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 185.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1045",
+    "tanim": "Duvarcı usta yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 185.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1046",
+    "tanim": "Sıcak demirci usta yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 185.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1047",
+    "tanim": "Soğuk demirci usta yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 185.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1048",
+    "tanim": "Cilacı usta yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 185.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1049",
+    "tanim": "Borucu usta yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 185.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1050",
+    "tanim": "Borucu ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1051",
+    "tanim": "Şoför",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1052",
+    "tanim": "Ağır kamyon şöförü",
+    "birim": "Sa",
+    "birimFiyat": 285.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1053",
+    "tanim": "Tamirci baş makinist",
+    "birim": "Sa",
+    "birimFiyat": 360.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1054",
+    "tanim": "Makinist",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1055",
+    "tanim": "Operatör makinist",
+    "birim": "Sa",
+    "birimFiyat": 285.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1056",
+    "tanim": "Makinist yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 210.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1057",
+    "tanim": "Operatör yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 240.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1058",
+    "tanim": "Şöför yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 200.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1059",
+    "tanim": "Yağcı",
+    "birim": "Sa",
+    "birimFiyat": 185.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1060",
+    "tanim": "Formen",
+    "birim": "Sa",
+    "birimFiyat": 360.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1061",
+    "tanim": "Topoğraf",
+    "birim": "Sa",
+    "birimFiyat": 275.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1062",
+    "tanim": "Düz işçi (İnşaat işçisi)",
+    "birim": "Sa",
+    "birimFiyat": 165.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1063",
+    "tanim": "Erbab işçi",
+    "birim": "Sa",
+    "birimFiyat": 200.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1064",
+    "tanim": "Çırak",
+    "birim": "Sa",
+    "birimFiyat": 165.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1065",
+    "tanim": "Çavuş",
+    "birim": "Sa",
+    "birimFiyat": 185.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1066",
+    "tanim": "Tenekeci usta yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 185.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1067",
+    "tanim": "Tünelde buvazör",
+    "birim": "Sa",
+    "birimFiyat": 240.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1068",
+    "tanim": "Birinci sınıf usta",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1069",
+    "tanim": "Birinci sınıf usta yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 185.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1070",
+    "tanim": "İkinci sınıf usta",
+    "birim": "Sa",
+    "birimFiyat": 240.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1071",
+    "tanim": "İkinci sınıf usta yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 185.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1072",
+    "tanim": "Pulverizatör operatörü",
+    "birim": "Sa",
+    "birimFiyat": 220.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1073",
+    "tanim": "Torkret (marpuçla beton tatbik eder)",
+    "birim": "Sa",
+    "birimFiyat": 220.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1074",
+    "tanim": "Bahçıvan ve fidan ustası",
+    "birim": "Sa",
+    "birimFiyat": 220.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1075",
+    "tanim": "Pist beton kaplama ustası (Hava meydanları inş.için)",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1076",
+    "tanim": "Baş sondör",
+    "birim": "Sa",
+    "birimFiyat": 320.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1077",
+    "tanim": "Sondör",
+    "birim": "Sa",
+    "birimFiyat": 305.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1078",
+    "tanim": "Pompa teknisyeni",
+    "birim": "Sa",
+    "birimFiyat": 285.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1079",
+    "tanim": "Aşçı",
+    "birim": "Sa",
+    "birimFiyat": 265.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1080",
+    "tanim": "Aşçı yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 240.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1081",
+    "tanim": "Elektrik ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1082",
+    "tanim": "Tesisat ustası",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1083",
+    "tanim": "Elektrik usta yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 185.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1084",
+    "tanim": "Tesisat usta yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 185.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1085",
+    "tanim": "Kule vinç operatörü",
+    "birim": "Sa",
+    "birimFiyat": 390.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1086",
+    "tanim": "Ahşap Kalıpçı (Betonarme)",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1087",
+    "tanim": "Tünel Kalıpçısı (Betonarme)",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1088",
+    "tanim": "Panel Kalıpçı (Betonarme)",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1089",
+    "tanim": "Metal Kalıp Ustası (Betonarme)",
+    "birim": "Sa",
+    "birimFiyat": 250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1090",
+    "tanim": "Kalıp İşleri Usta Yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 185.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1091",
+    "tanim": "Test, Ayar ve Devreye Alma Uzmanı",
+    "birim": "Sa",
+    "birimFiyat": 700.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1501",
+    "tanim": "Tarak gemisi kaptanı (yakın yol kaptanı)",
+    "birim": "Sa",
+    "birimFiyat": 435.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1502",
+    "tanim": "Tarak gemisi baş makinisti (çarçı başı)",
+    "birim": "Sa",
+    "birimFiyat": 370.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1503",
+    "tanim": "Tarama uzmanı",
+    "birim": "Sa",
+    "birimFiyat": 500.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1504",
+    "tanim": "Romörkör kaptanı (Kıyı kaptanı)",
+    "birim": "Sa",
+    "birimFiyat": 340.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1505",
+    "tanim": "Romorkör makinisti (Çarkçı)",
+    "birim": "Sa",
+    "birimFiyat": 340.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1506",
+    "tanim": "Zatülhareke taş ve çamur dubası kaptanı (Liman kaptanı)",
+    "birim": "Sa",
+    "birimFiyat": 340.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1507",
+    "tanim": "Zatülhareke taş ve çamur dubası makinisti (Çarkcı)",
+    "birim": "Sa",
+    "birimFiyat": 320.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1508",
+    "tanim": "Maçula reisi",
+    "birim": "Sa",
+    "birimFiyat": 320.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1509",
+    "tanim": "Tarak gemisi ikinci kaptanı (Kıyı kaptanı)",
+    "birim": "Sa",
+    "birimFiyat": 320.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  }
+]
