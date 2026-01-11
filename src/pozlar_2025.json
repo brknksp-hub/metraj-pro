@@ -1,0 +1,738 @@
+[
+  {
+    "pozNo": "10.100.1510",
+    "tanim": "Tarak gemisi ikinci makinisti (Çarkçı)",
+    "birim": "Sa",
+    "birimFiyat": 360.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1511",
+    "tanim": "Güverte lostromosu",
+    "birim": "Sa",
+    "birimFiyat": 240.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1512",
+    "tanim": "Makina lostromosu",
+    "birim": "Sa",
+    "birimFiyat": 240.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1513",
+    "tanim": "Usta gemici",
+    "birim": "Sa",
+    "birimFiyat": 235.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1514",
+    "tanim": "Gemi yağcısı",
+    "birim": "Sa",
+    "birimFiyat": 235.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1515",
+    "tanim": "Dalgıç klavuzu",
+    "birim": "Sa",
+    "birimFiyat": 235.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1516",
+    "tanim": "Gemi aşçıbaşı",
+    "birim": "Sa",
+    "birimFiyat": 235.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1517",
+    "tanim": "Gemi ateşcisi",
+    "birim": "Sa",
+    "birimFiyat": 235.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1518",
+    "tanim": "Kamarot",
+    "birim": "Sa",
+    "birimFiyat": 210.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1519",
+    "tanim": "Gemici (Tayfa)",
+    "birim": "Sa",
+    "birimFiyat": 210.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1520",
+    "tanim": "Gemi silicisi",
+    "birim": "Sa",
+    "birimFiyat": 210.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1521",
+    "tanim": "Gemi aşçı yardımcısı",
+    "birim": "Sa",
+    "birimFiyat": 210.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.100.1522",
+    "tanim": "Dalgıç",
+    "birim": "Sa",
+    "birimFiyat": 575.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.110.1001",
+    "tanim": "Üç at veya katır ile sürücüden ibaret taşıt katarı",
+    "birim": "Gündelik",
+    "birimFiyat": 545.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.110.1002",
+    "tanim": "Her cins hayvanla çekilen arabalar için taşıma katsayısı",
+    "birim": "-",
+    "birimFiyat": 330.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.110.1003",
+    "tanim": "Her cins ve tonajda motorlu araç taşıma katsayısı K",
+    "birim": "-",
+    "birimFiyat": 1750.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1001",
+    "tanim": "Ekskavatör ve dragline tipi makinalar 100-139 HP",
+    "birim": "Adet",
+    "birimFiyat": 3500000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1002",
+    "tanim": "Ekskavatör ve dragline tipi makinalar 140-169 HP",
+    "birim": "Adet",
+    "birimFiyat": 4750000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1003",
+    "tanim": "Ekskavatör ve dragline tipi makinalar 170-209 HP",
+    "birim": "Adet",
+    "birimFiyat": 5000000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1004",
+    "tanim": "Ekskavatör ve dragline tipi makinalar 210-259 HP",
+    "birim": "Adet",
+    "birimFiyat": 6500000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1005",
+    "tanim": "Ekskavatör (paletli) (210-259 HP) (maks. 2,5 m³)",
+    "birim": "Adet",
+    "birimFiyat": 6500000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1006",
+    "tanim": "Ekskavatör ve dragline tipi makinalar 260-299 HP",
+    "birim": "Adet",
+    "birimFiyat": 7400000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1007",
+    "tanim": "Ekskavatör (paletli) (260-299 HP) (maks. 2,5 m³)",
+    "birim": "Adet",
+    "birimFiyat": 7400000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1008",
+    "tanim": "Ekskavatör beko takriben 125 HP",
+    "birim": "Adet",
+    "birimFiyat": 4800000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1009",
+    "tanim": "Ekskavatör (paletli) (300-329 HP) (maks. 3,5 m³)",
+    "birim": "Adet",
+    "birimFiyat": 9000000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1010",
+    "tanim": "Traktör skreyper (111 HP+Vagon kova 8Yd3)",
+    "birim": "Adet",
+    "birimFiyat": 2600000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1011",
+    "tanim": "Traktör ripper (185HP+Ripper)",
+    "birim": "Adet",
+    "birimFiyat": 5900000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1012",
+    "tanim": "Motor greyder (80 HP'den yukarı güçte)",
+    "birim": "Adet",
+    "birimFiyat": 2700000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1013",
+    "tanim": "Greyder (190-209 HP)",
+    "birim": "Adet",
+    "birimFiyat": 8300000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1014",
+    "tanim": "Greyder (210-230 HP)",
+    "birim": "Adet",
+    "birimFiyat": 9500000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1015",
+    "tanim": "Lastik tekerlekli traktör-skreyper (250 HP 24 Yd3)",
+    "birim": "Adet",
+    "birimFiyat": 11000000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1016",
+    "tanim": "Traktör buldozer (70 HP motor+bıçak)",
+    "birim": "Adet",
+    "birimFiyat": 1850000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1017",
+    "tanim": "Traktör buldozer (100 HP motor+bıçak)",
+    "birim": "Adet",
+    "birimFiyat": 2250000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1018",
+    "tanim": "Traktör buldozer (160 HP motor+bıçak)",
+    "birim": "Adet",
+    "birimFiyat": 3000000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1019",
+    "tanim": "Traktör buldozer (185 HP+bıçak)",
+    "birim": "Adet",
+    "birimFiyat": 4900000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1020",
+    "tanim": "Traktör buldozer (285 HP motor+bıçak)",
+    "birim": "Adet",
+    "birimFiyat": 9800000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1021",
+    "tanim": "Traktör buldozer (345 HP motor+bıçak)",
+    "birim": "Adet",
+    "birimFiyat": 10800000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1022",
+    "tanim": "Komple buharlı veya kompresörlü şahmerdan",
+    "birim": "Adet",
+    "birimFiyat": 6800000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1023",
+    "tanim": "Kompresör (210 Cfm'lik+hortum ve tabancalar)",
+    "birim": "Adet",
+    "birimFiyat": 700000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1024",
+    "tanim": "Vantilasyon makinası (210 Cfm'lik+borular)",
+    "birim": "Adet",
+    "birimFiyat": 760000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1025",
+    "tanim": "Kompresör (250 HP)",
+    "birim": "Adet",
+    "birimFiyat": 2300000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1026",
+    "tanim": "Enjeksiyon makinası (210 Cfm'lik+borular)",
+    "birim": "Adet",
+    "birimFiyat": 760000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1027",
+    "tanim": "Kompresör (250 Cfm'lik+delici grubu+pick-up)",
+    "birim": "Adet",
+    "birimFiyat": 950000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1028",
+    "tanim": "Enjeksiyon makinası (75 HP, 250 cfm)",
+    "birim": "Adet",
+    "birimFiyat": 165000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1029",
+    "tanim": "Kazıcı yükleyici (100 HP) (maksimum 2,5 m³)",
+    "birim": "Adet",
+    "birimFiyat": 3100000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1030",
+    "tanim": "Yükleyici (1 1/2 Yd3 veya 5500 libre)",
+    "birim": "Adet",
+    "birimFiyat": 1800000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1031",
+    "tanim": "Yükleyici (lastik tekerlekli) (100 HP)",
+    "birim": "Adet",
+    "birimFiyat": 2500000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1032",
+    "tanim": "Yükleyici (trakskavatör) (Paletli)",
+    "birim": "Adet",
+    "birimFiyat": 3600000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1033",
+    "tanim": "Betoniyer (takriben 250 litrelik)",
+    "birim": "Adet",
+    "birimFiyat": 118000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1034",
+    "tanim": "Betoniyer (takriben 500 Litrelik)",
+    "birim": "Adet",
+    "birimFiyat": 118000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1035",
+    "tanim": "Betoniyer (takriben 1000 Litrelik)",
+    "birim": "Adet",
+    "birimFiyat": 350000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1036",
+    "tanim": "Betoniyer (1000 litrelik yarı otomatik)",
+    "birim": "Adet",
+    "birimFiyat": 350000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1037",
+    "tanim": "Mozayik silme makinası (Benzinli)",
+    "birim": "Adet",
+    "birimFiyat": 47500.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1038",
+    "tanim": "Yol çizgisi boyası silme makinası (7,5 HP)",
+    "birim": "Adet",
+    "birimFiyat": 487000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1039",
+    "tanim": "Kum püskürtme makinası komple",
+    "birim": "Adet",
+    "birimFiyat": 85000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1040",
+    "tanim": "Beton vibratörü (4 HP)",
+    "birim": "Adet",
+    "birimFiyat": 85000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1041",
+    "tanim": "Komple kompresörle çalışan vibratör",
+    "birim": "Adet",
+    "birimFiyat": 270000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1042",
+    "tanim": "Konkasör (120-150 m³/sa - 215 HP)",
+    "birim": "Adet",
+    "birimFiyat": 8400000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1043",
+    "tanim": "Eleme makinası (70 HP, 100 M3/saat)",
+    "birim": "Adet",
+    "birimFiyat": 680000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1044",
+    "tanim": "Eleme makinası 70HP 100m3/sa",
+    "birim": "Adet",
+    "birimFiyat": 680000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1045",
+    "tanim": "Elevatör (15 HP, 10-18m uzunluk)",
+    "birim": "Adet",
+    "birimFiyat": 150000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.120.1046",
+    "tanim": "Elevatör (25 HP, 18-24m uzunluk)",
+    "birim": "Adet",
+    "birimFiyat": 325000.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1001",
+    "tanim": "Çakıl (elenmesi gerekmeyen iri agrega)",
+    "birim": "m³",
+    "birimFiyat": 108.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1002",
+    "tanim": "Çakıl (elenmiş ve yıkanmış)",
+    "birim": "m³",
+    "birimFiyat": 270.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1003",
+    "tanim": "Çakıl (yıkanmış ve iki tane sınıfı karıştırılmış)",
+    "birim": "m³",
+    "birimFiyat": 306.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1004",
+    "tanim": "Kum (elenmesi gerekmeyen ince agrega)",
+    "birim": "m³",
+    "birimFiyat": 110.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1005",
+    "tanim": "Kum (elenmiş ve yıkanmış)",
+    "birim": "m³",
+    "birimFiyat": 272.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1006",
+    "tanim": "Kum (yıkanmış ve iki tane sınıfı karıştırılmış)",
+    "birim": "m³",
+    "birimFiyat": 308.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1007",
+    "tanim": "İnce sıva veya derz kumu (elenmiş ve yıkanmış)",
+    "birim": "m³",
+    "birimFiyat": 345.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1008",
+    "tanim": "32 mm'ye kadar kırmataş",
+    "birim": "m³",
+    "birimFiyat": 370.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1009",
+    "tanim": "63 mm'ye kadar kırmataş (karıştırılmış)",
+    "birim": "m³",
+    "birimFiyat": 325.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1201",
+    "tanim": "Portland çimentosu (Torbalı) (CEM I 42,5 N)",
+    "birim": "Ton",
+    "birimFiyat": 2500.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1202",
+    "tanim": "Portland çimentosu (Dökme) (CEM I 42,5 N)",
+    "birim": "Ton",
+    "birimFiyat": 2450.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1203",
+    "tanim": "Portland çimentosu (Torbalı) (CEM I 42,5 R)",
+    "birim": "Ton",
+    "birimFiyat": 2500.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1204",
+    "tanim": "Portland çimentosu (Dökme) (CEM I 42,5 R)",
+    "birim": "Ton",
+    "birimFiyat": 2450.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1205",
+    "tanim": "Portland Curuflu Çimento (Torbalı) (CEM II/A-S 42,5 R)",
+    "birim": "Ton",
+    "birimFiyat": 2430.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1209",
+    "tanim": "Portland Kalkerli Çimento (Torbalı) (CEM II/A-L 42,5 R)",
+    "birim": "Ton",
+    "birimFiyat": 2250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1233",
+    "tanim": "Beyaz Portland Çimento (Torbalı) (CEM-I 52,5 R)",
+    "birim": "Ton",
+    "birimFiyat": 4450.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1501",
+    "tanim": "C 8/10 beton harcı",
+    "birim": "m³",
+    "birimFiyat": 1950.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1502",
+    "tanim": "C 12/15 beton harcı",
+    "birim": "m³",
+    "birimFiyat": 2050.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1503",
+    "tanim": "C 16/20 beton harcı",
+    "birim": "m³",
+    "birimFiyat": 2150.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1504",
+    "tanim": "C 20/25 beton harcı",
+    "birim": "m³",
+    "birimFiyat": 2250.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1505",
+    "tanim": "C 25/30 beton harcı",
+    "birim": "m³",
+    "birimFiyat": 2350.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1506",
+    "tanim": "C 30/37 beton harcı",
+    "birim": "m³",
+    "birimFiyat": 2450.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1701",
+    "tanim": "Beton çelik çubuğu, düz Ø 6 mm (S220)",
+    "birim": "Kg",
+    "birimFiyat": 19.8,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1702",
+    "tanim": "Beton çelik çubuğu düz Ø8 - Ø10 - Ø12 mm",
+    "birim": "Kg",
+    "birimFiyat": 19.7,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1704",
+    "tanim": "Beton çelik çubuğu, nervürlü Ø 8-12 mm",
+    "birim": "Kg",
+    "birimFiyat": 21.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.1751",
+    "tanim": "Çelik hasır (Nervürlü) (3.01-10.00 kg/m2)",
+    "birim": "Kg",
+    "birimFiyat": 22.5,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2001",
+    "tanim": "190 x 85 x 190 mm yatay delikli tuğla",
+    "birim": "Adet",
+    "birimFiyat": 4.4,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2211",
+    "tanim": "190 x 90 x 50 mm dolu harman tuğlası",
+    "birim": "Adet",
+    "birimFiyat": 5.15,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2221",
+    "tanim": "200 x 200 x 400 mm asmolen döşeme dolgu tuğlası",
+    "birim": "Adet",
+    "birimFiyat": 19.45,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  },
+  {
+    "pozNo": "10.130.2501",
+    "tanim": "Techizatsız gazbeton duvar blokları",
+    "birim": "m³",
+    "birimFiyat": 1778.0,
+    "kurum": "ÇŞB",
+    "yil": 2025
+  }
+]
